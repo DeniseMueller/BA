@@ -31,15 +31,15 @@ Die View, das Bindungsziel, besitzt ein Dependency(engl. f\"ur abh\"angig) Objek
 Eine Two Way Bindung erm\"oglicht dem User, \"Anderungen vorzunehmen. Hierbei werden die Zieleigenschaften ver\"andert und automatisch die Quelleigenschaften aktualisiert. Andersherum geschieht genau das gleiche, analog zur One Way Bindung. F\"ur zum Beispiel zu bearbeitende Formulare oder andere interaktive Situatuionen, die vermutlich Abh\"angigkeitseigenschaften aufweisen, ist diese Bindung r\"atlich.
 Die kontr\"are Bindung zur One Way Bindung ist die One Way To Source Bidnung, diese aktualisiert automatisch die Quelleigenschaften wenn die Zieleigenschaft ge\"andert wurde.
 \subsection*{Notifications}
-Um die \"Anderung zu erkennen, muss die Quelle einen Benachrichtgungsmechanismus beinhalten. In der Regel ist dies die INotifyPropertyChanged Implementierung. Bei dieser Implementierung wird ein Objekt an die UI gebunden, das das Ereignis PropertyChanged enth\"alt und dies ausl\"ost, sobald eine \"Anderungen an der Eigenschaft des Objektes wahrgenommen wird. Diese \"Anderung wird von dem Model an das ViewModel gesendet, das dann die Aktualisierung an der Quelleigenschaft vornehmen kann und die \"Anderung in der View angezeigt werden.
-Die Quellaktualisierungen werden anhand UpdateSourceTrigger, die Eigenschaften enthalten, die bestimmen, wann und warum die Benachrichtigung ausgel\"ost wird,  ausgel\"ost. 
+Um die \"Anderung zu erkennen, muss die Quelle einen Benachrichtgungsmechanismus beinhalten. In der Regel ist dies die \texttt{INotifyPropertyChanged} Implementierung. Bei dieser Implementierung wird ein Objekt an die UI gebunden, das das Ereignis \texttt{PropertyChanged} enth\"alt und dies ausl\"ost, sobald eine \"Anderungen an der Eigenschaft des Objektes wahrgenommen wird. Diese \"Anderung wird von dem Model an das ViewModel gesendet, das dann die Aktualisierung an der Quelleigenschaft vornehmen kann und die \"Anderung in der View angezeigt.
+Die Quellaktualisierungen werden anhand \texttt{UpdateSourceTrigger}, die Eigenschaften enthalten, die bestimmen, wann und warum die Benachrichtigung ausgel\"ost wird,  ausgel\"ost. 
 
 
 \subsection*{Fazit}
 Das Ziel des Architekturmuster ist, wie auch bei dem Architekturmuster \ac{MVC}, das der Vorreiter von \ac{MVVM} ist, das Trennen der Logik und der Pr\"asentations Schicht bzw. der View.
 Die Vorteile des Entwurfsmuster \ac{MVVM} sind:
 \begin{itemize}
-\item Durch die Trennung m\"ussen \"Anderungen, die an dem Model vorgenommen werden, nicht an der View ge\"andert werden.\cite{tutorialspointMVVM} 
+\item Durch die Trennung m\"ussen \"Anderungen, die an dem Model vorgenommen werden, nicht an der View ge\"andert werden\cite{tutorialspointMVVM} .
 \item W\"ahrend der Entwicklung k\"onnen die Entwickler und die Designer unabh\"angig voneinander an den Komponenten arbeiten\cite{Pete2016}.
 \item Modultests f\"ur das ViewModel und das Model k\"onnen ohne die View erstellt werden\cite{Pete2016}.
 \item Die View kann beliebig ausgetauscht und wiederbenutzt werden, da die View unabh\"angig von den anderen Komponenten ist\cite{Pete2016}.
