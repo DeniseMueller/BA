@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.5)  19 APR 2018 14:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.5)  19 APR 2018 14:42
 entering extended mode
 **./ITDDeniseMueller.tex
 (ITDDeniseMueller.tex
@@ -1558,9 +1558,9 @@ Package hyperref Info: Anchor `chapter*.3' on input line 28.
 Package hyperref Info: Reference (link) `figure.caption.10' on input line 4.
 Package hyperref Info: Reference (link) `figure.caption.12' on input line 5.
 Package hyperref Info: Reference (link) `figure.caption.25' on input line 6.
-Package hyperref Info: Reference (link) `figure.caption.27' on input line 7.
-Package hyperref Info: Reference (link) `figure.caption.34' on input line 8.
-Package hyperref Info: Reference (link) `figure.caption.39' on input line 11.
+Package hyperref Info: Reference (link) `figure.caption.28' on input line 7.
+Package hyperref Info: Reference (link) `figure.caption.35' on input line 8.
+Package hyperref Info: Reference (link) `figure.caption.40' on input line 11.
 )
 \tf@lof=\write6
 \openout6 = `ITDDeniseMueller.lof'.
@@ -1580,14 +1580,14 @@ Package hyperref Info: Anchor `page.iv' on input line 29.
 Package `hyperref' Info: End of reference (link) `figure.caption.10', line 4.
 Package `hyperref' Info: End of reference (link) `figure.caption.12', line 5.
 Package `hyperref' Info: End of reference (link) `figure.caption.25', line 6.
-Package `hyperref' Info: End of reference (link) `figure.caption.27', line 7.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 8.
-Package `hyperref' Info: End of reference (link) `figure.caption.39', line 11.
+Package `hyperref' Info: End of reference (link) `figure.caption.28', line 7.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 8.
+Package `hyperref' Info: End of reference (link) `figure.caption.40', line 11.
 ]
 Package hyperref Info: Anchor `chapter*.4' on input line 29.
 
 (ITDDeniseMueller.lot
-Package hyperref Info: Reference (link) `table.caption.37' on input line 4.
+Package hyperref Info: Reference (link) `table.caption.38' on input line 4.
 )
 \tf@lot=\write7
 \openout7 = `ITDDeniseMueller.lot'.
@@ -1604,7 +1604,7 @@ Package hyperref Info: Anchor `page.v' on input line 31.
  [5
 
 
-Package `hyperref' Info: End of reference (link) `table.caption.37', line 4.
+Package `hyperref' Info: End of reference (link) `table.caption.38', line 4.
 ]
 Package hyperref Info: Anchor `section*.5' on input line 32.
 Package hyperref Info: Anchor `MVVM' on input line 34.
@@ -1615,15 +1615,16 @@ Package hyperref Info: Anchor `CSS' on input line 38.
 Package hyperref Info: Anchor `DOM' on input line 39.
 Package hyperref Info: Anchor `CLI' on input line 40.
 Package hyperref Info: Anchor `SPA' on input line 41.
+Package hyperref Info: Anchor `UI' on input line 42.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 46.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 46.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 46.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
-Package hyperref Info: Anchor `page.vi' on input line 45.
+(babel)             in language  on input line 46.
+Package hyperref Info: Anchor `page.vi' on input line 46.
  [6]
 \openout2 = `chapters/ch-einfuehrung.aux'.
 
@@ -1695,14 +1696,14 @@ Package hyperref Info: bookmark on input line 13:
 (hyperref)             type {toc}.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 48.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 47.
-Package hyperref Info: Anchor `page.1' on input line 47.
+(babel)             in language  on input line 48.
+Package hyperref Info: Anchor `page.1' on input line 48.
  [1
 
 
@@ -1786,7 +1787,7 @@ Package hyperref Info: Reference (link) `HTML' on input line 4.
 Package hyperref Info: Reference (link) `HTML' on input line 4.
 Package hyperref Info: Reference (cite) `cite.Springer2017' on input line 4.
 Package hyperref Info: Anchor `figure.caption.10' on input line 5.
-<fig/gettingStartedVue.PNG, id=239, 310.84807pt x 561.61627pt>
+<fig/gettingStartedVue.PNG, id=240, 310.84807pt x 561.61627pt>
 File: fig/gettingStartedVue.PNG Graphic file (type png)
 <use fig/gettingStartedVue.PNG>
 Package pdftex.def Info: fig/gettingStartedVue.PNG  used on input line 7.
@@ -1841,7 +1842,7 @@ Package hyperref Info: Anchor `section*.11' on input line 13.
 Package hyperref Info: Reference (link) `MVVM' on input line 14.
 Package hyperref Info: Reference (link) `figure.caption.12' on input line 14.
 Package hyperref Info: Anchor `figure.caption.12' on input line 15.
-<fig/vueJSmvvm.PNG, id=261, 725.109pt x 127.677pt>
+<fig/vueJSmvvm.PNG, id=262, 725.109pt x 127.677pt>
 File: fig/vueJSmvvm.PNG Graphic file (type png)
 <use fig/vueJSmvvm.PNG>
 Package pdftex.def Info: fig/vueJSmvvm.PNG  used on input line 17.
@@ -2107,26 +2108,26 @@ Package hyperref Info: Reference (link) `DOM' on input line 3.
 Package hyperref Info: Reference (link) `HTML' on input line 4.
 Package hyperref Info: Reference (link) `HTML' on input line 4.
 Package hyperref Info: Reference (link) `DOM' on input line 4.
-Package hyperref Info: Reference (link) `HTML' on input line 4.
-Package hyperref Info: Reference (link) `HTML' on input line 4.
-Package hyperref Info: Reference (link) `CSS' on input line 4.
-Package hyperref Info: Reference (cite) `cite.Kogel2015' on input line 4.
-Package hyperref Info: Reference (link) `DOM' on input line 5.
-Package hyperref Info: Reference (link) `DOM' on input line 5.
-Package hyperref Info: Reference (link) `DOM' on input line 5.
-Package hyperref Info: Reference (link) `DOM' on input line 5.
-Package hyperref Info: Reference (link) `DOM' on input line 5.
-Package hyperref Info: Reference (cite) `cite.Skirzynski2015' on input line 5.
-Package hyperref Info: Reference (link) `DOM' on input line 5.
+Package hyperref Info: Reference (link) `HTML' on input line 5.
+Package hyperref Info: Reference (link) `HTML' on input line 5.
+Package hyperref Info: Reference (link) `CSS' on input line 5.
+Package hyperref Info: Reference (cite) `cite.Kogel2015' on input line 5.
+Package hyperref Info: Reference (link) `DOM' on input line 6.
+Package hyperref Info: Reference (link) `DOM' on input line 6.
+Package hyperref Info: Reference (link) `DOM' on input line 6.
+Package hyperref Info: Reference (link) `DOM' on input line 6.
+Package hyperref Info: Reference (link) `DOM' on input line 6.
+Package hyperref Info: Reference (cite) `cite.Skirzynski2015' on input line 6.
+Package hyperref Info: Reference (link) `DOM' on input line 6.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 7.
-Package hyperref Info: Anchor `page.8' on input line 7.
+(babel)             in language  on input line 8.
+Package hyperref Info: Anchor `page.8' on input line 8.
  [8
 Package `hyperref' Info: End of reference (cite) `cite.ReaktiveManifest2014', l
 ine 19.
@@ -2144,79 +2145,79 @@ Package `hyperref' Info: End of reference (link) `DOM', line 3.
 Package `hyperref' Info: End of reference (link) `HTML', line 4.
 Package `hyperref' Info: End of reference (link) `HTML', line 4.
 Package `hyperref' Info: End of reference (link) `DOM', line 4.
-Package `hyperref' Info: End of reference (link) `HTML', line 4.
-Package `hyperref' Info: End of reference (link) `HTML', line 4.
-Package `hyperref' Info: End of reference (link) `CSS', line 4.
-Package `hyperref' Info: End of reference (cite) `cite.Kogel2015', line 4.
-Package `hyperref' Info: End of reference (link) `DOM', line 5.
-Package `hyperref' Info: End of reference (link) `DOM', line 5.
-Package `hyperref' Info: End of reference (link) `DOM', line 5.
-Package `hyperref' Info: End of reference (link) `DOM', line 5.
-Package `hyperref' Info: End of reference (link) `DOM', line 5.
+Package `hyperref' Info: End of reference (link) `HTML', line 5.
+Package `hyperref' Info: End of reference (link) `HTML', line 5.
+Package `hyperref' Info: End of reference (link) `CSS', line 5.
+Package `hyperref' Info: End of reference (cite) `cite.Kogel2015', line 5.
+Package `hyperref' Info: End of reference (link) `DOM', line 6.
+Package `hyperref' Info: End of reference (link) `DOM', line 6.
+Package `hyperref' Info: End of reference (link) `DOM', line 6.
+Package `hyperref' Info: End of reference (link) `DOM', line 6.
+Package `hyperref' Info: End of reference (link) `DOM', line 6.
 ]
 Package hyperref Info: Reference (cite) `cite.VueDokumentationOther2018' on inp
-ut line 7.
-Package hyperref Info: Reference (link) `HTML' on input line 8.
-Package hyperref Info: Reference (link) `CSS' on input line 8.
-Package hyperref Info: Reference (cite) `cite.VueDokumentationOther2018' on inp
 ut line 8.
-Package hyperref Info: Reference (link) `HTML' on input line 8.
-Package hyperref Info: Reference (link) `CSS' on input line 8.
-Package hyperref Info: Reference (cite) `cite.Haupt2018' on input line 8.
-Package hyperref Info: Reference (link) `HTML' on input line 8.
-Package hyperref Info: Reference (link) `HTML' on input line 8.
+Package hyperref Info: Reference (link) `HTML' on input line 9.
+Package hyperref Info: Reference (link) `CSS' on input line 9.
 Package hyperref Info: Reference (cite) `cite.VueDokumentationOther2018' on inp
-ut line 8.
-Package hyperref Info: Reference (cite) `cite.Peters2017' on input line 9.
-Package hyperref Info: Anchor `section*.21' on input line 9.
+ut line 9.
+Package hyperref Info: Reference (link) `HTML' on input line 9.
+Package hyperref Info: Reference (link) `CSS' on input line 9.
+Package hyperref Info: Reference (cite) `cite.Haupt2018' on input line 9.
+Package hyperref Info: Reference (link) `HTML' on input line 9.
+Package hyperref Info: Reference (link) `HTML' on input line 9.
+Package hyperref Info: Reference (cite) `cite.VueDokumentationOther2018' on inp
+ut line 9.
+Package hyperref Info: Reference (cite) `cite.Peters2017' on input line 10.
+Package hyperref Info: Anchor `section*.21' on input line 10.
 Package acronym Info: Label `acro:CLI' newly defined as it shall be overridden
-although it is yet undefined on input line 9.
-Package hyperref Info: Reference (link) `CLI' on input line 9.
+although it is yet undefined on input line 10.
+Package hyperref Info: Reference (link) `CLI' on input line 10.
 Package hyperref Info: Reference (cite) `cite.VueDokumentationOther2018' on inp
-ut line 10.
+ut line 11.
 Package hyperref Info: Reference (cite) `cite.GoogleTrends2018' on input line 1
-3.
-Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 15.
-Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 17.
+4.
+Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 16.
 Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 18.
 Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 19.
 Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 20.
+Package hyperref Info: Reference (cite) `cite.Svensson2015' on input line 21.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 21.
-Package hyperref Info: Anchor `page.9' on input line 21.
+(babel)             in language  on input line 22.
+Package hyperref Info: Anchor `page.9' on input line 22.
  [9
-Package `hyperref' Info: End of reference (cite) `cite.Skirzynski2015', line 5.
+Package `hyperref' Info: End of reference (cite) `cite.Skirzynski2015', line 6.
 
-Package `hyperref' Info: End of reference (link) `DOM', line 5.
-Package `hyperref' Info: End of reference (cite) `cite.VueDokumentationOther201
-8', line 7.
-Package `hyperref' Info: End of reference (link) `HTML', line 8.
-Package `hyperref' Info: End of reference (link) `CSS', line 8.
+Package `hyperref' Info: End of reference (link) `DOM', line 6.
 Package `hyperref' Info: End of reference (cite) `cite.VueDokumentationOther201
 8', line 8.
-Package `hyperref' Info: End of reference (link) `HTML', line 8.
-Package `hyperref' Info: End of reference (link) `CSS', line 8.
-Package `hyperref' Info: End of reference (cite) `cite.Haupt2018', line 8.
-Package `hyperref' Info: End of reference (link) `HTML', line 8.
-Package `hyperref' Info: End of reference (link) `HTML', line 8.
+Package `hyperref' Info: End of reference (link) `HTML', line 9.
+Package `hyperref' Info: End of reference (link) `CSS', line 9.
 Package `hyperref' Info: End of reference (cite) `cite.VueDokumentationOther201
-8', line 8.
-Package `hyperref' Info: End of reference (cite) `cite.Peters2017', line 9.
-Package `hyperref' Info: End of reference (link) `CLI', line 9.
+8', line 9.
+Package `hyperref' Info: End of reference (link) `HTML', line 9.
+Package `hyperref' Info: End of reference (link) `CSS', line 9.
+Package `hyperref' Info: End of reference (cite) `cite.Haupt2018', line 9.
+Package `hyperref' Info: End of reference (link) `HTML', line 9.
+Package `hyperref' Info: End of reference (link) `HTML', line 9.
 Package `hyperref' Info: End of reference (cite) `cite.VueDokumentationOther201
-8', line 10.
+8', line 9.
+Package `hyperref' Info: End of reference (cite) `cite.Peters2017', line 10.
+Package `hyperref' Info: End of reference (link) `CLI', line 10.
+Package `hyperref' Info: End of reference (cite) `cite.VueDokumentationOther201
+8', line 11.
 Package `hyperref' Info: End of reference (cite) `cite.GoogleTrends2018', line 
-13.
-Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 15.
-Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 17.
+14.
+Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 16.
 Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 18.
 Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 19.
+Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 20.
 ])
 Package hyperref Info: Anchor `section.2.2' on input line 12.
 Package babel Info: Redefining ngerman shorthand "|
@@ -2264,7 +2265,7 @@ Package babel Info: Redefining ngerman shorthand "~
 Package hyperref Info: Anchor `page.10' on input line 27.
 
 [10
-Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 20.
+Package `hyperref' Info: End of reference (cite) `cite.Svensson2015', line 21.
 Package `hyperref' Info: End of reference (cite) `cite.Pete2016', line 2.
 Package `hyperref' Info: End of reference (cite) `cite.MicrosoftMVVM2012', line
  6.
@@ -2289,17 +2290,18 @@ ame }\@currenttocentry }
 (hyperref)             reference {subsection.2.2.2}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Reference (link) `MVVM' on input line 3.
-Package hyperref Info: Reference (link) `Hfootnote.5' on input line 3.
-Package hyperref Info: Reference (link) `MVVM' on input line 3.
-Package hyperref Info: Reference (cite) `cite.Jaeckle2015' on input line 3.
-Package hyperref Info: Anchor `figure.caption.25' on input line 5.
-<fig/mvvmv2.png, id=426, 635.976pt x 440.044pt>
+Package hyperref Info: Reference (link) `Hfootnote.5' on input line 4.
+Package hyperref Info: Reference (link) `MVVM' on input line 4.
+Package hyperref Info: Reference (link) `Hfootnote.6' on input line 4.
+Package hyperref Info: Reference (link) `MVVM' on input line 4.
+Package hyperref Info: Reference (cite) `cite.Jaeckle2015' on input line 4.
+Package hyperref Info: Anchor `figure.caption.25' on input line 6.
+<fig/mvvmv2.png, id=428, 635.976pt x 440.044pt>
 File: fig/mvvmv2.png Graphic file (type png)
 <use fig/mvvmv2.png>
-Package pdftex.def Info: fig/mvvmv2.png  used on input line 7.
+Package pdftex.def Info: fig/mvvmv2.png  used on input line 8.
 (pdftex.def)             Requested size: 286.18655pt x 198.01796pt.
-Package hyperref Info: bookmark on input line 8:
+Package hyperref Info: bookmark on input line 9:
 (hyperref)             thecounter {2.3}
 (hyperref)             text {\protect \numberline {\caption@lstfmt {\@nameuse {
 p@figure}}{\@nameuse {thefigure}}}{\ignorespaces Komponente des MVVM Architektu
@@ -2307,71 +2309,80 @@ rmusters\relax }}
 (hyperref)             reference {figure.caption.25}
 (hyperref)             toclevel {1}
 (hyperref)             type {lof}.
-Package hyperref Info: Reference (link) `figure.caption.25' on input line 11.
-Package hyperref Info: Anchor `section*.26' on input line 13.
-Package hyperref Info: Reference (link) `figure.caption.25' on input line 14.
-Package hyperref Info: Reference (cite) `cite.Cai2017' on input line 16.
+Package hyperref Info: Reference (link) `figure.caption.25' on input line 12.
+Package hyperref Info: Anchor `section*.26' on input line 14.
+Package hyperref Info: Reference (link) `figure.caption.25' on input line 15.
+Package hyperref Info: Anchor `section*.27' on input line 17.
+Package acronym Info: Label `acro:UI' newly defined as it shall be overridden
+although it is yet undefined on input line 17.
+Package hyperref Info: Reference (link) `UI' on input line 17.
+Package hyperref Info: Reference (cite) `cite.Cai2017' on input line 17.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 20.
-Package hyperref Info: Anchor `page.11' on input line 20.
+(babel)             in language  on input line 21.
+Package hyperref Info: Anchor `page.11' on input line 21.
  [11
 Package `hyperref' Info: End of reference (cite) `cite.EderView2017', line 25.
 Package `hyperref' Info: End of reference (cite) `cite.EderViewModel2017', line
  31.
-Package `hyperref' Info: End of reference (link) `MVVM', line 3.
-Package `hyperref' Info: End of reference (link) `Hfootnote.5', line 3.
-Package `hyperref' Info: End of reference (link) `MVVM', line 3.
-Package `hyperref' Info: End of reference (cite) `cite.Jaeckle2015', line 3.
-Package `hyperref' Info: End of reference (link) `figure.caption.25', line 11.
+Package `hyperref' Info: End of reference (link) `Hfootnote.5', line 4.
+Package `hyperref' Info: End of reference (link) `MVVM', line 4.
+Package `hyperref' Info: End of reference (link) `Hfootnote.6', line 4.
+Package `hyperref' Info: End of reference (link) `MVVM', line 4.
+Package `hyperref' Info: End of reference (cite) `cite.Jaeckle2015', line 4.
+Package `hyperref' Info: End of reference (link) `figure.caption.25', line 12.
  <./fig/mvvmv2.png>]
-Package hyperref Info: Anchor `figure.caption.27' on input line 24.
-<fig/Data-Binding.png, id=440, 636.779pt x 165.418pt>
+Package hyperref Info: Anchor `figure.caption.28' on input line 25.
+<fig/Data-Binding.png, id=444, 636.779pt x 165.418pt>
 File: fig/Data-Binding.png Graphic file (type png)
 <use fig/Data-Binding.png>
-Package pdftex.def Info: fig/Data-Binding.png  used on input line 26.
+Package pdftex.def Info: fig/Data-Binding.png  used on input line 27.
 (pdftex.def)             Requested size: 350.22954pt x 90.98016pt.
-Package hyperref Info: bookmark on input line 27:
+Package hyperref Info: bookmark on input line 28:
 (hyperref)             thecounter {2.4}
 (hyperref)             text {\protect \numberline {\caption@lstfmt {\@nameuse {
 p@figure}}{\@nameuse {thefigure}}}{\ignorespaces Datenbindung zwischen View und
  ViewModel\relax }}
-(hyperref)             reference {figure.caption.27}
+(hyperref)             reference {figure.caption.28}
 (hyperref)             toclevel {1}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `section*.28' on input line 33.
+Package hyperref Info: Reference (link) `UI' on input line 31.
+Package hyperref Info: Anchor `section*.29' on input line 34.
+Package hyperref Info: Reference (link) `UI' on input line 35.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
-Package hyperref Info: Anchor `page.12' on input line 36.
+(babel)             in language  on input line 37.
+Package hyperref Info: Anchor `page.12' on input line 37.
  [12
-Package `hyperref' Info: End of reference (link) `figure.caption.25', line 14.
-Package `hyperref' Info: End of reference (cite) `cite.Cai2017', line 16.
+Package `hyperref' Info: End of reference (link) `figure.caption.25', line 15.
+Package `hyperref' Info: End of reference (link) `UI', line 17.
+Package `hyperref' Info: End of reference (cite) `cite.Cai2017', line 17.
+Package `hyperref' Info: End of reference (link) `UI', line 31.
  <./fig/Data-Binding.png>]
-Package hyperref Info: Anchor `section*.29' on input line 38.
-Package hyperref Info: Reference (link) `MVC' on input line 39.
-Package hyperref Info: Reference (link) `MVVM' on input line 39.
+Package hyperref Info: Anchor `section*.30' on input line 39.
+Package hyperref Info: Reference (link) `MVC' on input line 40.
 Package hyperref Info: Reference (link) `MVVM' on input line 40.
+Package hyperref Info: Reference (link) `MVVM' on input line 41.
 Package hyperref Info: Reference (cite) `cite.tutorialspointMVVM' on input line
- 42.
-Package hyperref Info: Reference (cite) `cite.Pete2016' on input line 43.
+ 43.
 Package hyperref Info: Reference (cite) `cite.Pete2016' on input line 44.
 Package hyperref Info: Reference (cite) `cite.Pete2016' on input line 45.
+Package hyperref Info: Reference (cite) `cite.Pete2016' on input line 46.
 Package hyperref Info: Reference (cite) `cite.tutorialspointMVVM' on input line
- 46.
-Package hyperref Info: Reference (link) `MVVM' on input line 49.
+ 47.
+Package hyperref Info: Reference (link) `MVVM' on input line 50.
 Package hyperref Info: Reference (cite) `cite.tutorialspointMVVM' on input line
- 50.
+ 51.
 )
 Package hyperref Info: Anchor `subsection.2.2.3' on input line 33.
 Package babel Info: Redefining ngerman shorthand "|
@@ -2397,19 +2408,14 @@ csname }\@currenttocentry }
 Package hyperref Info: Reference (link) `MVC' on input line 3.
 Package hyperref Info: Reference (cite) `cite.Syromiatnikov2014' on input line 
 3.
-Package hyperref Info: Anchor `section*.30' on input line 5.
+Package hyperref Info: Anchor `section*.31' on input line 5.
 Package hyperref Info: Reference (link) `MVC' on input line 6.
 Package hyperref Info: Reference (cite) `cite.Leff2001' on input line 6.
-Package hyperref Info: Anchor `section*.31' on input line 7.
+Package hyperref Info: Anchor `section*.32' on input line 7.
 Package hyperref Info: Reference (link) `MVVM' on input line 8.
 Package hyperref Info: Reference (cite) `cite.Peres2016' on input line 8.
+Package hyperref Info: Reference (link) `UI' on input line 8.
 Package hyperref Info: Reference (cite) `cite.Leff2001' on input line 8.
-
-Overfull \hbox (17.7341pt too wide) in paragraph at lines 8--9
-\T1/lmr/m/n/10.95 ins Bild. Mit dem Con-trol-ler zu-sam-men de-fi-nie-ren sie d
-as User In-ter-face (Benutzerschnittstelle)[[]]. 
- []
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2419,33 +2425,34 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 9.
 Package hyperref Info: Anchor `page.13' on input line 9.
-[13
-Package `hyperref' Info: End of reference (link) `MVC', line 39.
-Package `hyperref' Info: End of reference (link) `MVVM', line 39.
+ [13
+Package `hyperref' Info: End of reference (link) `UI', line 35.
+Package `hyperref' Info: End of reference (link) `MVC', line 40.
 Package `hyperref' Info: End of reference (link) `MVVM', line 40.
+Package `hyperref' Info: End of reference (link) `MVVM', line 41.
 Package `hyperref' Info: End of reference (cite) `cite.tutorialspointMVVM', lin
-e 42.
-Package `hyperref' Info: End of reference (cite) `cite.Pete2016', line 43.
+e 43.
 Package `hyperref' Info: End of reference (cite) `cite.Pete2016', line 44.
 Package `hyperref' Info: End of reference (cite) `cite.Pete2016', line 45.
+Package `hyperref' Info: End of reference (cite) `cite.Pete2016', line 46.
 Package `hyperref' Info: End of reference (cite) `cite.tutorialspointMVVM', lin
-e 46.
-Package `hyperref' Info: End of reference (link) `MVVM', line 49.
+e 47.
+Package `hyperref' Info: End of reference (link) `MVVM', line 50.
 Package `hyperref' Info: End of reference (cite) `cite.tutorialspointMVVM', lin
-e 50.
+e 51.
 Package `hyperref' Info: End of reference (link) `MVC', line 3.
 Package `hyperref' Info: End of reference (cite) `cite.Syromiatnikov2014', line
  3.
 Package `hyperref' Info: End of reference (link) `MVC', line 6.
 Package `hyperref' Info: End of reference (cite) `cite.Leff2001', line 6.
 ]
-Package hyperref Info: Anchor `section*.32' on input line 9.
+Package hyperref Info: Anchor `section*.33' on input line 9.
 Package hyperref Info: Reference (cite) `cite.TU-Wien2013' on input line 10.
 Package hyperref Info: Reference (cite) `cite.Peres2016' on input line 10.
 Package hyperref Info: Reference (cite) `cite.Singer2004' on input line 11.
-Package hyperref Info: Anchor `section*.33' on input line 12.
-Package hyperref Info: Anchor `figure.caption.34' on input line 13.
-<fig/mvc.png, id=480, 627.946pt x 331.639pt>
+Package hyperref Info: Anchor `section*.34' on input line 12.
+Package hyperref Info: Anchor `figure.caption.35' on input line 13.
+<fig/mvc.png, id=488, 627.946pt x 331.639pt>
 File: fig/mvc.png Graphic file (type png)
 <use fig/mvc.png>
 Package pdftex.def Info: fig/mvc.png  used on input line 15.
@@ -2455,13 +2462,13 @@ Package hyperref Info: bookmark on input line 16:
 (hyperref)             text {\protect \numberline {\caption@lstfmt {\@nameuse {
 p@figure}}{\@nameuse {thefigure}}}{\ignorespaces Komponente des MVC Architektur
 musters\relax }}
-(hyperref)             reference {figure.caption.34}
+(hyperref)             reference {figure.caption.35}
 (hyperref)             toclevel {1}
 (hyperref)             type {lof}.
-Package hyperref Info: Reference (link) `figure.caption.34' on input line 19.
+Package hyperref Info: Reference (link) `figure.caption.35' on input line 19.
 Package hyperref Info: Reference (link) `MVC' on input line 19.
 Package hyperref Info: Reference (cite) `cite.Curry2008' on input line 19.
-Package hyperref Info: Anchor `section*.35' on input line 21.
+Package hyperref Info: Anchor `section*.36' on input line 21.
 Package hyperref Info: Reference (cite) `cite.Deacon2005' on input line 23.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 25.
@@ -2475,11 +2482,12 @@ Package hyperref Info: Anchor `page.14' on input line 25.
  [14
 Package `hyperref' Info: End of reference (link) `MVVM', line 8.
 Package `hyperref' Info: End of reference (cite) `cite.Peres2016', line 8.
+Package `hyperref' Info: End of reference (link) `UI', line 8.
 Package `hyperref' Info: End of reference (cite) `cite.Leff2001', line 8.
 Package `hyperref' Info: End of reference (cite) `cite.TU-Wien2013', line 10.
 Package `hyperref' Info: End of reference (cite) `cite.Peres2016', line 10.
 Package `hyperref' Info: End of reference (cite) `cite.Singer2004', line 11.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
 Package `hyperref' Info: End of reference (link) `MVC', line 19.
 Package `hyperref' Info: End of reference (cite) `cite.Curry2008', line 19.
  <./fig/mvc.png>]) (chapters/ch-mvp.tex
@@ -2491,7 +2499,7 @@ csname }\@currenttocentry }
 (hyperref)             reference {subsubsection.2.2.3.2}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `section*.36' on input line 3.
+Package hyperref Info: Anchor `section*.37' on input line 3.
 Package acronym Info: Label `acro:MVP' newly defined as it shall be overridden
 although it is yet undefined on input line 3.
 Package hyperref Info: Reference (link) `MVP' on input line 3.
@@ -2510,7 +2518,8 @@ Package hyperref Info: Reference (cite) `cite.Bragge2013' on input line 4.
 Package hyperref Info: Reference (link) `MVC' on input line 4.
 Package hyperref Info: Reference (link) `MVC' on input line 5.
 Package hyperref Info: Reference (cite) `cite.Potel1996' on input line 5.
-) (chapters/ch-mvvm-fazit.tex
+)
+(chapters/ch-mvvm-fazit.tex
 Package hyperref Info: Anchor `subsection.2.2.4' on input line 1.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2523,17 +2532,18 @@ ame }\@currenttocentry }
 (hyperref)             reference {subsection.2.2.4}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
+Package hyperref Info: Reference (link) `UI' on input line 2.
 Package hyperref Info: Reference (link) `MVVM' on input line 2.
 Package hyperref Info: Reference (cite) `cite.Bragge2013' on input line 2.
 Package hyperref Info: Reference (cite) `cite.Syromiatnikov2014' on input line 
 2.
-Package hyperref Info: Anchor `table.caption.37' on input line 3.
+Package hyperref Info: Anchor `table.caption.38' on input line 3.
 Package hyperref Info: bookmark on input line 5:
 (hyperref)             thecounter {2.1}
 (hyperref)             text {\protect \numberline {\caption@lstfmt {\@nameuse {
 p@table}}{\@nameuse {thetable}}}{\ignorespaces Vorteile und Nachteile der Archi
 tekturmuster\relax }}
-(hyperref)             reference {table.caption.37}
+(hyperref)             reference {table.caption.38}
 (hyperref)             toclevel {1}
 (hyperref)             type {lot}.
 Package hyperref Info: Reference (link) `MVVM' on input line 10.
@@ -2556,14 +2566,14 @@ Overfull \hbox (32.95139pt too wide) in paragraph at lines 7--26
 
 ))
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
-Package hyperref Info: Anchor `page.15' on input line 48.
+(babel)             in language  on input line 49.
+Package hyperref Info: Anchor `page.15' on input line 49.
  [15
 Package `hyperref' Info: End of reference (cite) `cite.Deacon2005', line 23.
 Package `hyperref' Info: End of reference (link) `MVP', line 3.
@@ -2582,20 +2592,21 @@ Package `hyperref' Info: End of reference (cite) `cite.Bragge2013', line 4.
 Package `hyperref' Info: End of reference (link) `MVC', line 4.
 Package `hyperref' Info: End of reference (link) `MVC', line 5.
 Package `hyperref' Info: End of reference (cite) `cite.Potel1996', line 5.
+Package `hyperref' Info: End of reference (link) `UI', line 2.
 Package `hyperref' Info: End of reference (link) `MVVM', line 2.
 Package `hyperref' Info: End of reference (cite) `cite.Bragge2013', line 2.
 Package `hyperref' Info: End of reference (cite) `cite.Syromiatnikov2014', line
  2.
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
-Package hyperref Info: Anchor `page.16' on input line 48.
+(babel)             in language  on input line 49.
+Package hyperref Info: Anchor `page.16' on input line 49.
  [16
 Package `hyperref' Info: End of reference (link) `MVVM', line 10.
 Package `hyperref' Info: End of reference (link) `MVC', line 14.
@@ -2719,20 +2730,20 @@ ame }\@currenttocentry }
 (hyperref)             reference {subsection.3.2.2}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `section*.38' on input line 17.
+Package hyperref Info: Anchor `section*.39' on input line 17.
 Package acronym Info: Label `acro:SPA' newly defined as it shall be overridden
 although it is yet undefined on input line 17.
 Package hyperref Info: Reference (link) `SPA' on input line 17.
 ))
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 49.
-Package hyperref Info: Anchor `page.18' on input line 49.
+(babel)             in language  on input line 50.
+Package hyperref Info: Anchor `page.18' on input line 50.
  [18
 Package `hyperref' Info: End of reference (cite) `cite.Goll2011', line 10.
 Package `hyperref' Info: End of reference (link) `SPA', line 17.
@@ -2768,8 +2779,8 @@ Package hyperref Info: bookmark on input line 1:
 (hyperref)             reference {section.4.1}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `figure.caption.39' on input line 2.
-<fig/UseCase.png, id=549, 594.72188pt x 416.30531pt>
+Package hyperref Info: Anchor `figure.caption.40' on input line 2.
+<fig/UseCase.png, id=558, 594.72188pt x 416.30531pt>
 File: fig/UseCase.png Graphic file (type png)
 <use fig/UseCase.png>
 Package pdftex.def Info: fig/UseCase.png  used on input line 4.
@@ -2783,19 +2794,19 @@ Package hyperref Info: bookmark on input line 5:
 (hyperref)             thecounter {4.1}
 (hyperref)             text {\protect \numberline {\caption@lstfmt {\@nameuse {
 p@figure}}{\@nameuse {thefigure}}}{\ignorespaces Use Case Diagramm\relax }}
-(hyperref)             reference {figure.caption.39}
+(hyperref)             reference {figure.caption.40}
 (hyperref)             toclevel {1}
 (hyperref)             type {lof}.
 ))
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 50.
-Package hyperref Info: Anchor `page.19' on input line 50.
+(babel)             in language  on input line 51.
+Package hyperref Info: Anchor `page.19' on input line 51.
  [19
 
 
@@ -2821,14 +2832,14 @@ Package hyperref Info: bookmark on input line 1:
 (hyperref)             type {toc}.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 51.
-Package hyperref Info: Anchor `page.20' on input line 51.
+(babel)             in language  on input line 52.
+Package hyperref Info: Anchor `page.20' on input line 52.
  [20
 
 
@@ -2906,14 +2917,14 @@ Package hyperref Info: bookmark on input line 18:
 Package hyperref Info: Anchor `Item.4' on input line 20.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 53.
-Package hyperref Info: Anchor `page.21' on input line 53.
+(babel)             in language  on input line 54.
+Package hyperref Info: Anchor `page.21' on input line 54.
  [21
 
 
@@ -2939,21 +2950,21 @@ Package hyperref Info: bookmark on input line 1:
 (hyperref)             type {toc}.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 55.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
-Package hyperref Info: Anchor `page.22' on input line 54.
+(babel)             in language  on input line 55.
+Package hyperref Info: Anchor `page.22' on input line 55.
  [22
 
 
 
 
 ] (ITDDeniseMueller.bbl
-Package hyperref Info: Anchor `chapter*.40' on input line 1.
+Package hyperref Info: Anchor `chapter*.41' on input line 1.
 Package hyperref Info: Anchor `cite.Teufel2018' on input line 8.
 Package hyperref Info: Anchor `cite.UniHagenWeb' on input line 15.
 Package hyperref Info: Anchor `cite.Springer2017' on input line 22.
@@ -3009,19 +3020,19 @@ Package hyperref Info: Anchor `page.23' on input line 103.
 
 
 
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
 ]
 Package hyperref Info: Anchor `cite.Lohmuller2016' on input line 104.
 Package hyperref Info: Anchor `cite.ReaktiveManifest2014' on input line 111.
@@ -3081,21 +3092,21 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 205.
 Package hyperref Info: Anchor `page.24' on input line 205.
 [24
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
 ]
 Package hyperref Info: Anchor `cite.Leff2001' on input line 206.
 Package hyperref Info: Anchor `cite.Peres2016' on input line 211.
@@ -3150,48 +3161,51 @@ Package hyperref Info: Anchor `cite.Goll2011' on input line 272.
 Package caption Warning: Unused \captionsetup[subfloat] on input line 375.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 64.
-Package hyperref Info: Anchor `page.25' on input line 64.
+(babel)             in language  on input line 65.
+Package hyperref Info: Anchor `page.25' on input line 65.
 [25
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.34', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
+Package `hyperref' Info: End of reference (link) `figure.caption.35', line 19.
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (ITDDeniseMueller.aux (chapters/ch-aa-titel.aux)
 (chapters/ch-aa-vorsspiel.aux) (chapters/ch-aa-zusfasg.aux)
 (chapters/ch-einfuehrung.aux) (chapters/ch-grundlagen.aux)
 (chapters/ch-requirements.aux) (chapters/ch-anforderungsanalyse.aux)
 (chapters/ch-systemarchitektur.aux) (chapters/ch-implementierung.aux)
 (chapters/ch-zusammenfassung.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `ITDDeniseMueller.out' has not changed.
 (rerunfilecheck)             Checksum: 8613C443475691333006CF7305F7A1E9;2286.
  ) 
 Here is how much of TeX's memory you used:
- 18435 strings out of 493305
- 301184 string characters out of 3128933
- 508453 words of memory out of 3000000
- 21293 multiletter control sequences out of 15000+200000
+ 18443 strings out of 493305
+ 301245 string characters out of 3128933
+ 508524 words of memory out of 3000000
+ 21298 multiletter control sequences out of 15000+200000
  85866 words of font info for 73 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
  53i,13n,66p,9122b,618s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exi
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
 , replaced by a fixed one
@@ -3220,9 +3234,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/de6mu72/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Users/de6mu72
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users
 /de6mu72/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on ITDDeniseMueller.pdf (31 pages, 755455 bytes).
+Output written on ITDDeniseMueller.pdf (31 pages, 757181 bytes).
 PDF statistics:
- 732 PDF objects out of 1000 (max. 8388607)
- 165 named destinations out of 1000 (max. 500000)
+ 741 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
  284 words of extra memory for PDF output out of 10000 (max. 10000000)
 

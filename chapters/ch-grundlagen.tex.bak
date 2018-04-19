@@ -22,13 +22,13 @@ Das Model stellt dabei folgende Funktionalit\"aten bereit:
 Was dabei zum Einsatz kommt, h\"angt von den Anforderungen an das Model ab. Werden die Daten beispielsweise von einem OR-Mapper oder einem Service zur\"uck geschickt, k\"onnten diese Funktionalit\"aten ebenso in das ViewModel implementiert werden\cite{EderModel2017}.
 
 \subsection*{View}
-Die View ist die strukturierte Benutzeroberfl\"ache, in der Daten, Videos sowie Bilder dargestellt werden und keinerlei Logik enthalten ist. Benutzereingaben, wie \"uber die Tastatur werden in der View abgefangen und an die das ViewModel weiter gegeben. Die View ist ausschlie\ss{}lich mit dem ViewModel verbunden und das nur, wenn die Daten an die View \"uberreicht werden. Im Code sollte in der View so wenig wie m\"oglich geschrieben und unabh\"angig sein. Das hei\ss{}t, der Code sollte sich ausschlie\ss{}lich auf die View beziehen. Dies erm\"oglicht das einfache Austauschen der View, ohne gro\ss{}e \"Anderungen am Code zu leisten\cite{EderView2017}.
+Die View ist die strukturierte Benutzeroberfl\"ache, in der Daten, Videos sowie Bilder dargestellt werden und keinerlei Logik enthalten ist. Benutzereingaben, wie \"uber die Tastatur werden in der View abgefangen und an das ViewModel weiter gegeben. Die View ist ausschlie\ss{}lich mit dem ViewModel verbunden und das nur, wenn die Daten an die View \"uberreicht werden. Im Code sollte in der View so wenig wie m\"oglich geschrieben und unabh\"angig sein. Das hei\ss{}t, der Code sollte sich ausschlie\ss{}lich auf die View beziehen. Dies erm\"oglicht das einfache Austauschen der View, ohne gro\ss{}e \"Anderungen am Code zu leisten\cite{EderView2017}.
 
 \subsection*{ViewModel}
 Einfach gesagt, stellt das ViewModel das Model f\"ur die View dar und gibt das Model nach au\ss{}en, hei\ss{}t das ViewModel bearbeitet die Logik der View. 
 Das ViewModel kommuniziert mit dem Model  durch Methodenaufrufe und stellt die Daten, das das ViewModel vom Model geliefert bekommt, der View dar. Die zur Verf\"ugung stehenden Funktionalit\"aten werden durch die View gebunden, wodurch f\"ur die View keinerlei Code anf\"allt.
 Referenzen auf Elemente der View d\"urfen nicht erstellt und darauf zugegriffen werden, da, wie in dem Abschnitt der View bereits erw\"ahnt wurde, keine Abh\"angigkeiten erstellt werden d\"urfen. Durch Funktionen \"uber die View zu testen ist unpraktisch und entf\"allt hier, da das ViewModel selbst die Abstraktion der View die M\"oglichkeit besitzt, das abzudecken.
-Das ViewModel bezieht sich niemals auf die View und kann somit auf jede View bezogen werden\cite{EderViewModel2017}.
+Das ViewModel bezieht sich niemals auf die View und kann somit auf jede View bezogen werden und macht sich daf\"ur wiederverwendbar\cite{EderViewModel2017}.
 \input{chapters/ch-mvvm}
 \subsection{Verwandte Architekturmuster}
 \input{chapters/ch-mvc}
