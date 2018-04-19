@@ -1,0 +1,308 @@
+% Encoding: UTF-8
+
+@Book{Goll2014,
+  title     = {Architektur- und Entwurfsmuster der Softwaretechnik Mit lauffähigen Beispielen in Java (German Edition)},
+  publisher = {Springer Vieweg},
+  year      = {2014},
+  author    = {Joachim Goll},
+  isbn      = {978-3-658-05531-8},
+  url       = {https://www.amazon.com/Architektur-Entwurfsmuster-Softwaretechnik-lauff%C3%A4higen-Beispielen/dp/3658055316?SubscriptionId=0JYN1NVW651KCA56C102&tag=techkie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=3658055316},
+}
+
+@Book{Kouraklis2016,
+  title     = {MVVM in Delphi Architecting and Building Model View ViewModel Applications},
+  publisher = {Apress},
+  year      = {2016},
+  author    = {John Kouraklis},
+  isbn      = {978-1-4842-2213-3},
+  url       = {https://www.amazon.com/MVVM-Delphi-Architecting-ViewModel-Applications-ebook/dp/B01M8O1511?SubscriptionId=0JYN1NVW651KCA56C102&tag=techkie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M8O1511},
+}
+
+@Article{Pete2016,
+  author    = {Naveen Pete},
+  title     = {MVC, MVVM and Angular},
+  year      = {2016},
+  month     = sep,
+  timestamp = {2018-03-29},
+  url       = {https://naveenpete.wordpress.com/2016/09/07/mvc-mvvm-and-angular/},
+}
+
+@Article{MicrosoftMVVM2012,
+  author    = {Unknown},
+  title     = {The MVVM Pattern},
+  journal   = {Microsoft},
+  year      = {2012},
+  month     = feb,
+  timestamp = {2018-03-29},
+  url       = {https://msdn.microsoft.com/en-in/library/hh848246.aspx?irgwc=1&OCID=AID681541_aff_7593_1211691&tduid=(ir_VqY0n%3AR2F0Iazt90ZWSkDWZQUkjwTGy5NQ1xQg0)(7593)(1211691)()(ir)&clickid=VqY0n%3AR2F0Iazt90ZWSkDWZQUkjwTGy5NQ1xQg0&ircid=7593},
+}
+
+@Article{EderModel2017,
+  author    = {Norbert Eder},
+  title     = {MVVM Das Model},
+  year      = {2017},
+  timestamp = {2018-03-29},
+  url       = {https://www.norberteder.com/mvvm-das-model/},
+}
+
+@Article{EderView2017,
+  author    = {Norbert Eder},
+  title     = {MVVM Die View},
+  year      = {2017},
+  timestamp = {2018-03-29},
+  url       = {https://www.norberteder.com/MVVM-Die-View/},
+}
+
+@Article{EderViewModel2017,
+  author    = {Norbert Eder},
+  title     = {MVVM Das ViewModel},
+  year      = {2017},
+  timestamp = {2018-03-29},
+  url       = {https://www.norberteder.com/MVVM-Das-ViewModel/},
+}
+
+@Article{Jaeckle2015,
+  author    = {Lukas Jaeckle, Joachim Goll, Manfred Dausmann},
+  title     = {Das Architekturmuster Model-View-ViewModel},
+  year      = {2015},
+  file      = {:Jaeckle2015 - Das Architekturmuster Model View ViewModel.pdf:PDF},
+  timestamp = {2018-04-03},
+}
+
+@Book{Filipova2016,
+  title     = {Learning Vue.js 2},
+  publisher = {Packt},
+  year      = {2016},
+  author    = {Olga Filipova},
+  month     = oct,
+  timestamp = {2018-04-03},
+  url       = {https://www.packtpub.com/mapt/book/web_development/9781786469946},
+}
+
+@Misc{PacktVideoVue2017,
+  author       = {Packt Video},
+  title        = {Web development with Vue.js 2},
+  howpublished = {YouTube},
+  month        = jul,
+  year         = {2017},
+  timestamp    = {2018-04-03},
+}
+
+@Article{Cai2017,
+  author    = {Saisang Cai},
+  title     = {Datenbindung},
+  journal   = {Microsoft},
+  year      = {2017},
+  comment   = {+ Untertehmen},
+  timestamp = {2018-04-03},
+  url       = {https://docs.microsoft.com/de-de/dotnet/framework/wpf/data/data-binding-wpf},
+}
+
+@Article{tutorialspointMVVM,
+  author    = {Unknown},
+  title     = {MVVM Tutorial},
+  journal   = {tutorialspoint},
+  file      = {:tutorialspointMVVM - MVVM Tutorial.pdf:PDF},
+  timestamp = {2018-04-04},
+  url       = {https://www.tutorialspoint.com/mvvm/mvvm_advantages.htm},
+}
+
+@InProceedings{Leffa2001,
+  author    = {A. Leff and J.T. Rayfield},
+  title     = {Web-application development using the Model/View/Controller design pattern},
+  year      = {2001},
+  publisher = {{IEEE} Comput. Soc},
+  doi       = {10.1109/edoc.2001.950428},
+  timestamp = {2018-04-04},
+}
+
+@Article{Peres2016,
+  author    = {Rui Peres},
+  title     = {Model-View-Controller (MVC) in iOS. A Modern Approach},
+  year      = {2016},
+  timestamp = {2018-04-04},
+  url       = {https://www.raywenderlich.com/132662/mvc-in-ios-a-modern-approach},
+}
+
+@Article{TU-Wien2013,
+  author    = {Alexander Schatten, Stefan Biffl, Markus Demolsky, Erik Gostischa-Franta, Thomas Östreicher, Dietmar Winkler},
+  title     = {Delegation Pattern},
+  journal   = {Best-Practise Software Engineering},
+  year      = {2013},
+  timestamp = {2018-04-04},
+  url       = {http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/delegation.html},
+}
+
+@Article{Curry2008,
+  author    = {Edward Curry and Paul Grace},
+  title     = {Flexible Self-Management Using the Model-View-Controller Pattern},
+  journal   = {{IEEE} Software},
+  year      = {2008},
+  volume    = {25},
+  number    = {3},
+  pages     = {84--90},
+  month     = {may},
+  doi       = {10.1109/ms.2008.60},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  timestamp = {2018-04-04},
+}
+
+@Article{Deacon2005,
+  author    = {John Deacon},
+  title     = {Model-View-Controller (MVC) Architecture},
+  journal   = {JOHN DEACON Computer Systems Development, Consulting \& Training},
+  year      = {1995, 2000, 2005},
+  file      = {:http\://www.jdl.co.uk/briefings/index.html#mvc:},
+  timestamp = {2018-04-04},
+}
+
+@Article{Singer2004,
+  author    = {Leif Singer},
+  title     = {Model-View-Controller},
+  journal   = {Uni Hannover},
+  year      = {2004},
+  timestamp = {2018-04-05},
+  url       = {http://www.se.uni-hannover.de/priv/lehre_2004winter_seminar_software_entwurf/04_mvc.pdf},
+}
+
+@InProceedings{Syromiatnikov2014,
+  author    = {Artem Syromiatnikov and Danny Weyns},
+  title     = {A Journey through the Land of Model-View-Design Patterns},
+  year      = {2014},
+  month     = {apr},
+  publisher = {{IEEE}},
+  doi       = {10.1109/wicsa.2014.13},
+  file      = {:Syromiatnikov2014 - A Journey through the Land of Model View Design Patterns.pdf:PDF},
+  timestamp = {2018-04-05},
+}
+
+@Misc{Bragge2013,
+  author    = {Matti Bragge},
+  title     = {Model-View-Controller architectural pattern and its evolution in graphical user interface frameworks},
+  month     = aug,
+  year      = {2013},
+  note      = {Bachelor Thesis Lappeenranta University of Technology School of Technology Management},
+  timestamp = {2018-04-05},
+  url       = {http://www.doria.fi/bitstream/handle/10024/92156/Model-View-Controller%20architectural%20pattern%20and%20its%20evolution%20in%20graphical%20user%20interface%20frameworks.pdf?sequence=2&isAllowed=y},
+}
+
+@Article{Potel1996,
+  author    = {Mike Potel},
+  title     = {MVP Model-View-Presenter. The Taligent Programming Model for C++ and Java},
+  journal   = {Taligent, Inc.},
+  year      = {1996},
+  file      = {:Potel1996 - MVP_ Model View Presenter. the Taligent Programming Model for C++ and Java.pdf:PDF},
+  timestamp = {2018-04-05},
+}
+
+@Article{Pastushenko2017,
+  author    = {Olena Pastushenko},
+  title     = {UXgraph Vue.js library with predefined D3 graphs},
+  year      = {2017},
+  file      = {:Pastushenko2017 - UXgraph Vue.js Library with Predefined D3 Graphs.pdf:PDF},
+  timestamp = {2018-04-09},
+}
+
+@Misc{Alexander2015,
+  author    = {Alexander, Svensson},
+  title     = {Speed Performance Comparison of JavaScript MVC Frameworks},
+  year      = {2015},
+  file      = {:Alexander2015 - Speed Performance Comparison of JavaScript MVC Frameworks.pdf:PDF},
+  keywords  = {JavaScript Framework Angular Aurelia Backbone Ember Knockout Mithril Vue},
+  timestamp = {2018-04-09},
+  url       = {http://www.diva-portal.org/smash/get/diva2:998701/FULLTEXT03.pdf},
+}
+
+@Article{Springer2017,
+  author    = {Sebastian Springer},
+  title     = {Vue.js Das Framework im Überblick},
+  journal   = {PHP Magazin, entwickler.de},
+  year      = {2017},
+  month     = jan,
+  timestamp = {2018-04-10},
+  url       = {https://entwickler.de/leseproben/framework-ueberblick-vuejs-579760880.html},
+}
+
+@Misc{GoogleTrends2018,
+  author       = {Google Trends},
+  howpublished = {Google Trends},
+  year         = {2018},
+  note         = {Statistik},
+  file         = {:GoogleTrends2018 -:},
+  timestamp    = {2018-04-10},
+  url          = {https://trends.google.de/trends/explore?date=today%205-y&q=vue.js,react.js,angular.js},
+}
+
+@Article{Teufel2018,
+  author    = {Marc Teufel},
+  title     = {Vue.js Der Siegeszug eines Frameworks},
+  journal   = {entwicklerspezial, entwickler.de},
+  year      = {2018},
+  timestamp = {2018-04-10},
+  url       = {https://entwickler.de/leseproben/vue-framework-579832700.html},
+}
+
+@Article{UniHagenWeb,
+  author    = {Dirk Frischalowski, Benjamin Wallenborn},
+  title     = {Einführung in Java-Webanwendungen},
+  journal   = {Uni Hagen},
+  year      = {?},
+  timestamp = {2018-04-10},
+  url       = {http://www.isdb.fernuni-hagen.de/wbt/files/demo/jsp/JSP/Kursseite_35130.htm},
+}
+
+@Article{Bemenderfer2017a,
+  author    = {Joshua Bemenderfer},
+  title     = {Updating Page Title \& Metadata with Vue.js \& vue-router},
+  journal   = {Alligator.io},
+  year      = {2017},
+  timestamp = {2018-04-10},
+  url       = {https://alligator.io/vuejs/vue-router-modify-head/},
+}
+
+@Article{Bemenderfer2017,
+  author    = {Joshua Bemenderfer},
+  title     = {Introduction to Routing in Vue.js with vue-router},
+  journal   = {Alligator.io},
+  year      = {2017},
+  timestamp = {2018-04-10},
+  url       = {https://alligator.io/vuejs/intro-to-routing/},
+}
+
+@Article{Zynda2017,
+  author    = {Ed Zynda},
+  title     = {Getting Started With Vue Router},
+  journal   = {scotch.io},
+  year      = {2017},
+  month     = jun,
+  timestamp = {2018-04-10},
+  url       = {https://scotch.io/tutorials/getting-started-with-vue-router},
+}
+
+@Misc{DictionaryTemplating,
+  author       = {Unknown},
+  howpublished = {The free Dictionary},
+  timestamp    = {2018-04-11},
+  url          = {https://www.thefreedictionary.com/Templating},
+}
+
+@Article{AlligatorTemplating2016,
+  author    = {Unknown},
+  title     = {Vue.js Templating},
+  journal   = {alligator.io},
+  year      = {2016-2017},
+  timestamp = {2018-04-11},
+  url       = {https://alligator.io/vuejs/templating/},
+}
+
+@Article{Gore2016,
+  author    = {Anthony Gore},
+  title     = {Exploring Vue.js Reactive Two Way Data Binding},
+  journal   = {medium.com},
+  year      = {2016},
+  month     = sep,
+  timestamp = {2018-04-11},
+  url       = {https://medium.com/js-dojo/exploring-vue-js-reactive-two-way-data-binding-da533d0c4554},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

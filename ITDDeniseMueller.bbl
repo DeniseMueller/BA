@@ -1,0 +1,307 @@
+\begin{thebibliography}{47}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Marc Teufel}(2018)]{Teufel2018}
+{Marc Teufel}.
+\newblock Vue.js: Der siegeszug eines frameworks.
+\newblock \emph{entwicklerspezial, entwickler.de}, 2018.
+\newblock URL
+  \url{https://entwickler.de/leseproben/vue-framework-579832700.html}.
+
+\bibitem[{Dirk Frischalowski}()]{UniHagenWeb}
+Benjamin~Wallenborn {Dirk Frischalowski}.
+\newblock Einf{\"u}hrung in java-webanwendungen.
+\newblock \emph{Uni Hagen}.
+\newblock URL
+  \url{http://www.isdb.fernuni-hagen.de/wbt/files/demo/jsp/JSP/Kursseite_35130.htm}.
+
+\bibitem[{Sebastian Springer}(2017)]{Springer2017}
+{Sebastian Springer}.
+\newblock Vue.js: Das framework im {\"u}berblick.
+\newblock \emph{PHP Magazin, entwickler.de}, 2017.
+\newblock URL
+  \url{https://entwickler.de/leseproben/framework-ueberblick-vuejs-579760880.html}.
+
+\bibitem[{Google Trends}(2018)]{GoogleTrends2018}
+{Google Trends}.
+\newblock Trendsvue, 2018.
+\newblock URL
+  \url{https://trends.google.de/trends/explore?date=today%205-y&q=vue.js,react.js,angular.js}.
+
+\bibitem[{Ed Zynda}(2017)]{Zynda2017}
+{Ed Zynda}.
+\newblock Getting started with vue router.
+\newblock \emph{scotch.io}, 2017.
+\newblock URL
+  \url{https://scotch.io/tutorials/getting-started-with-vue-router}.
+
+\bibitem[{Joshua Bemenderfer}(2017{\natexlab{a}})]{Bemenderfer2017}
+{Joshua Bemenderfer}.
+\newblock Introduction to routing in vue.js with vue-router.
+\newblock \emph{Alligator.io}, 2017{\natexlab{a}}.
+\newblock URL \url{https://alligator.io/vuejs/intro-to-routing/}.
+
+\bibitem[Unknown({\natexlab{a}})]{DictionaryTemplating}
+Unknown, {\natexlab{a}}.
+\newblock URL \url{https://www.thefreedictionary.com/Templating}.
+
+\bibitem[Unknown(2016-2017)]{AlligatorTemplating2016}
+Unknown.
+\newblock Vue.js templating.
+\newblock \emph{Alligator.io}, 2016-2017.
+\newblock URL \url{https://alligator.io/vuejs/templating/}.
+
+\bibitem[{Anthony Gore}(2016)]{Gore2016}
+{Anthony Gore}.
+\newblock Exploring vue.js: Reactive two-way data binding.
+\newblock \emph{medium.com}, 2016.
+\newblock URL
+  \url{https://medium.com/js-dojo/exploring-vue-js-reactive-two-way-data-binding-da533d0c4554}.
+
+\bibitem[Etzion and Niblett(2011)]{Etzion&Niblett2011}
+Opher Etzion and Peter Niblett.
+\newblock \emph{Event processing in action}.
+\newblock Manning, Greenwich, Conn., 2011.
+\newblock ISBN 1935182218.
+\newblock URL \url{http://proquest.tech.safaribooksonline.de/9781935182214}.
+
+\bibitem[Unknown(2018{\natexlab{a}})]{VueDokumentationEvent2018}
+Unknown.
+\newblock Event handling, 2018{\natexlab{a}}.
+\newblock URL \url{https://vuejs.org/v2/guide/events.html}.
+
+\bibitem[Unknown({\natexlab{b}})]{VueDokumentationValidierung2018}
+Unknown.
+\newblock Form validation, {\natexlab{b}}.
+\newblock URL \url{https://vuejs.org/v2/cookbook/form-validation.html}.
+
+\bibitem[{Joshua Bemenderfer}(2017{\natexlab{b}})]{BemenderferVeeValidate2017}
+{Joshua Bemenderfer}.
+\newblock Template-based form validation with vue.js and vee-validate,
+  2017{\natexlab{b}}.
+\newblock URL
+  \url{https://alligator.io/vuejs/template-form-validation-vee-validate/}.
+
+\bibitem[{Joshua Bemenderfer}(2017{\natexlab{c}})]{BemenderferVuelidate2017}
+{Joshua Bemenderfer}.
+\newblock Model-based form validation with vue.js and vuelidate,
+  2017{\natexlab{c}}.
+\newblock URL
+  \url{https://alligator.io/vuejs/model-form-validation-vuelidate/}.
+
+\bibitem[Unknown({\natexlab{c}})]{VueDokumentationComponents2018}
+Unknown.
+\newblock Components, {\natexlab{c}}.
+\newblock URL
+  \url{https://v1.vuejs.org/guide/components.html#What-are-Components}.
+
+\bibitem[Bainomugisha et~al.(2013)Bainomugisha, Carreton, {van Cutsem},
+  Mostinckx, and Meuter]{Bainomugisha2013}
+Engineer Bainomugisha, Andoni~Lombide Carreton, Tom {van Cutsem}, Stijn
+  Mostinckx, and Wolfgang~de Meuter.
+\newblock A survey on reactive programming.
+\newblock \emph{ACM Computing Surveys}, 45\penalty0 (4):\penalty0 1--34, 2013.
+\newblock ISSN 03600300.
+\newblock \doi{10.1145/2501654.2501666}.
+
+\bibitem[{Christian Lambert} and {Matthias Ebbing}(2016)]{Lambert2016}
+{Christian Lambert} and {Matthias Ebbing}.
+\newblock Reaktiv in java mit rxjava: Reaktiv in die praxis: Reaktive
+  programmierung mit rxjava, 2016.
+\newblock URL
+  \url{https://jaxenter.de/reaktiv-in-die-praxis-reaktive-programmierung-mit-rxjava-39088}.
+
+\bibitem[{Jan Carsten Lohm{\"u}ller}(2016)]{Lohmuller2016}
+{Jan Carsten Lohm{\"u}ller}.
+\newblock Reactive programming -- mehr als nur streams und lambdas, 2016.
+\newblock URL
+  \url{https://www.informatik-aktuell.de/entwicklung/programmiersprachen/reactive-programming-mehr-als-nur-streams-und-lambdas.html}.
+
+\bibitem[Lee(2016)]{Lee2016}
+Colin Lee.
+\newblock \emph{Reactive Java Programming}.
+\newblock {Springer Verlag}, s.l., 2016.
+\newblock ISBN 978-1-4842-1429-9.
+
+\bibitem[{Luuk Gruijs}(2017)]{Gruijs2017}
+{Luuk Gruijs}.
+\newblock Understanding, creating and subscribing to observables in angular,
+  2017.
+\newblock URL
+  \url{https://medium.com/@luukgruijs/understanding-creating-and-subscribing-to-observables-in-angular-426dbf0b04a3}.
+
+\bibitem[{Jonas Bon{\'e}r, Dave Farley, Roland Kuhn, and Martin
+  Thompson}(2014)]{ReaktiveManifest2014}
+{Jonas Bon{\'e}r, Dave Farley, Roland Kuhn, and Martin Thompson}.
+\newblock Das reaktive manifest, 2014.
+\newblock URL \url{https://www.reactivemanifesto.org/de}.
+
+\bibitem[{Paul K{\"o}gel}(2015)]{Kogel2015}
+{Paul K{\"o}gel}.
+\newblock React einsteiger tutorial, 2015.
+\newblock URL \url{http://reactjs.de/posts/react-tutorial}.
+
+\bibitem[{Marcin Skirzynski}(2015)]{Skirzynski2015}
+{Marcin Skirzynski}.
+\newblock Virtuelles dom mit react.js, 2015.
+\newblock URL \url{http://reactjs.de/posts/virtuelles-dom-mit-react-js}.
+
+\bibitem[Unknown(2018{\natexlab{b}})]{VueDokumentationOther2018}
+Unknown.
+\newblock Comparison with other frameworks, 2018{\natexlab{b}}.
+\newblock URL \url{https://vuejs.org/v2/guide/comparison.html}.
+
+\bibitem[{Toni Haupt}(2018)]{Haupt2018}
+{Toni Haupt}.
+\newblock Vue.js -- it's simple until you make it complicated, 2018.
+\newblock URL
+  \url{https://blog.codecentric.de/2018/02/vue-js-simple-make-complicated/}.
+
+\bibitem[{Kevin Peters}(2017)]{Peters2017}
+{Kevin Peters}.
+\newblock Large-scale vuex application structures, 2017.
+\newblock URL
+  \url{https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f}.
+
+\bibitem[Alexander(2015)]{Svensson2015}
+Svensson Alexander.
+\newblock Speed~performance~comparison~of~javascript~mvc~frameworks, 2015.
+\newblock URL
+  \url{http://www.diva-portal.org/smash/get/diva2:998701/FULLTEXT03.pdf}.
+
+\bibitem[{Naveen Pete}(2016)]{Pete2016}
+{Naveen Pete}.
+\newblock Mvc, mvvm and angular.
+\newblock 2016.
+\newblock URL
+  \url{https://naveenpete.wordpress.com/2016/09/07/mvc-mvvm-and-angular/}.
+
+\bibitem[Unknown(2012)]{MicrosoftMVVM2012}
+Unknown.
+\newblock The mvvm pattern.
+\newblock \emph{Microsoft}, 2012.
+\newblock URL
+  \url{https://msdn.microsoft.com/en-in/library/hh848246.aspx?irgwc=1&OCID=AID681541_aff_7593_1211691&tduid=(ir_VqY0n%3AR2F0Iazt90ZWSkDWZQUkjwTGy5NQ1xQg0)(7593)(1211691)()(ir)&clickid=VqY0n%3AR2F0Iazt90ZWSkDWZQUkjwTGy5NQ1xQg0&ircid=7593}.
+
+\bibitem[{Norbert Eder}(2017{\natexlab{a}})]{EderModel2017}
+{Norbert Eder}.
+\newblock Mvvm das model.
+\newblock 2017{\natexlab{a}}.
+\newblock URL \url{https://www.norberteder.com/mvvm-das-model/}.
+
+\bibitem[{Norbert Eder}(2017{\natexlab{b}})]{EderView2017}
+{Norbert Eder}.
+\newblock Mvvm die view.
+\newblock 2017{\natexlab{b}}.
+\newblock URL \url{https://www.norberteder.com/MVVM-Die-View/}.
+
+\bibitem[{Norbert Eder}(2017{\natexlab{c}})]{EderViewModel2017}
+{Norbert Eder}.
+\newblock Mvvm das viewmodel.
+\newblock 2017{\natexlab{c}}.
+\newblock URL \url{https://www.norberteder.com/MVVM-Das-ViewModel/}.
+
+\bibitem[{Lukas Jaeckle, Joachim Goll, Manfred Dausmann}(2015)]{Jaeckle2015}
+{Lukas Jaeckle, Joachim Goll, Manfred Dausmann}.
+\newblock Das architekturmuster model-view-viewmodel.
+\newblock 2015.
+
+\bibitem[{Saisang Cai}(2017)]{Cai2017}
+{Saisang Cai}.
+\newblock Datenbindung.
+\newblock \emph{Microsoft}, 2017.
+\newblock URL
+  \url{https://docs.microsoft.com/de-de/dotnet/framework/wpf/data/data-binding-wpf}.
+
+\bibitem[Unknown({\natexlab{d}})]{tutorialspointMVVM}
+Unknown.
+\newblock Mvvm tutorial.
+\newblock \emph{tutorialspoint}, {\natexlab{d}}.
+\newblock URL \url{https://www.tutorialspoint.com/mvvm/mvvm_advantages.htm}.
+
+\bibitem[{Artem Syromiatnikov} and {Danny Weyns}(2014)]{Syromiatnikov2014}
+{Artem Syromiatnikov} and {Danny Weyns}.
+\newblock A journey through the land of model-view-design patterns.
+\newblock In \emph{2014 IEEE/IFIP Conference on Software Architecture}. IEEE,
+  2014.
+\newblock \doi{10.1109/wicsa.2014.13}.
+
+\bibitem[{A. Leff {\&} J.T. Rayfield}(2001)]{Leff2001}
+{A. Leff {\&} J.T. Rayfield}, editor.
+\newblock \emph{Web-application development using the Model/View/Controller
+  design pattern}, 2001. {IEEE Comput. Soc}.
+
+\bibitem[{Rui Peres}(2016)]{Peres2016}
+{Rui Peres}.
+\newblock Model-view-controller (mvc) in ios: A modern approach.
+\newblock 2016.
+\newblock URL
+  \url{https://www.raywenderlich.com/132662/mvc-in-ios-a-modern-approach}.
+
+\bibitem[{Alexander Schatten, Stefan Biffl, Markus Demolsky, Erik
+  Gostischa-Franta, Thomas {\"O}streicher, Dietmar Winkler}(2013)]{TU-Wien2013}
+{Alexander Schatten, Stefan Biffl, Markus Demolsky, Erik Gostischa-Franta,
+  Thomas {\"O}streicher, Dietmar Winkler}.
+\newblock Delegation pattern.
+\newblock \emph{Best-Practise Software Engineering}, 2013.
+\newblock URL
+  \url{http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/delegation.html}.
+
+\bibitem[{Leif Singer}(2004)]{Singer2004}
+{Leif Singer}.
+\newblock Model-view-controller.
+\newblock \emph{Uni Hannover}, 2004.
+\newblock URL
+  \url{http://www.se.uni-hannover.de/priv/lehre_2004winter_seminar_software_entwurf/04_mvc.pdf}.
+
+\bibitem[{Edward Curry} and {Paul Grace}(2008)]{Curry2008}
+{Edward Curry} and {Paul Grace}.
+\newblock Flexible self-management using the model-view-controller pattern.
+\newblock \emph{IEEE Software}, 25\penalty0 (3):\penalty0 84--90, 2008.
+\newblock \doi{10.1109/ms.2008.60}.
+
+\bibitem[{John Deacon}(1995, 2000, 2005)]{Deacon2005}
+{John Deacon}.
+\newblock Model-view-controller (mvc) architecture.
+\newblock \emph{JOHN DEACON Computer Systems Development, Consulting {\&}
+  Training}, 1995, 2000, 2005.
+
+\bibitem[{Matti Bragge}(2013)]{Bragge2013}
+{Matti Bragge}.
+\newblock Model-view-controller architectural pattern and its evolution in
+  graphical user interface frameworks, 2013.
+\newblock URL
+  \url{http://www.doria.fi/bitstream/handle/10024/92156/Model-View-Controller%20architectural%20pattern%20and%20its%20evolution%20in%20graphical%20user%20interface%20frameworks.pdf?sequence=2&isAllowed=y}.
+
+\bibitem[{Mike Potel}(1996)]{Potel1996}
+{Mike Potel}.
+\newblock Mvp: Model-view-presenter. the taligent programming model for c++ and
+  java.
+\newblock \emph{Taligent, Inc}, 1996.
+
+\bibitem[R.Heini(2010)]{Heini2010}
+R.Heini.
+\newblock Ziele und anforderungen: Funktionale, nicht funktionale
+  anforderungen, 2010.
+\newblock URL
+  \url{http://www.anforderungsmanagement.ch/in_depth_vertiefung/ziele_und_anforderungen/index.html}.
+
+\bibitem[Sophist(1998-2011)]{Sophist2011}
+Sophist.
+\newblock Anforderungen, 1998-2011.
+\newblock URL
+  \url{http://www.sophist.de/anforderungen/requirements-engineering/faq-requirements-engineering/}.
+
+\bibitem[Goll(2011)]{Goll2011}
+Joachim Goll.
+\newblock \emph{Methoden und Architekturen der Softwaretechnik}.
+\newblock Studium. {Vieweg+Teubner Verlag}, Wiesbaden, 1. aufl. edition, 2011.
+\newblock ISBN 978-3-8348-1578-1.
+\newblock \doi{10.1007/978-3-8348-8164-9}.
+\newblock URL \url{http://dx.doi.org/10.1007/978-3-8348-8164-9}.
+
+\end{thebibliography}
