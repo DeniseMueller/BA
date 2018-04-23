@@ -1,14 +1,15 @@
-\babel@toc {ngerman}{}
+\select@language {ngerman}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Codebeispiel Initialisierung Vue\relax }}{3}{figure.caption.10}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces MVVM in VueJS\relax }}{4}{figure.caption.12}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Komponente des MVVM Architekturmusters\relax }}{11}{figure.caption.25}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Datenbindung zwischen View und ViewModel\relax }}{12}{figure.caption.28}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Komponente des MVC Architekturmusters\relax }}{14}{figure.caption.35}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Zusammenspiel reaktives System\relax }}{8}{figure.caption.19}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Komponente des MVVM Architekturmusters\relax }}{12}{figure.caption.26}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Datenbindung zwischen View und ViewModel\relax }}{12}{figure.caption.29}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Komponente des MVC Architekturmusters\relax }}{14}{figure.caption.33}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Use Case Diagramm\relax }}{19}{figure.caption.40}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Use Case Diagramm\relax }}{19}{figure.caption.38}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

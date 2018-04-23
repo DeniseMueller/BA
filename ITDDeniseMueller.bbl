@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{45}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -39,10 +39,10 @@ Benjamin~Wallenborn {Dirk Frischalowski}.
 \newblock URL
   \url{https://scotch.io/tutorials/getting-started-with-vue-router}.
 
-\bibitem[{Joshua Bemenderfer}(2017)]{Bemenderfer2017}
+\bibitem[{Joshua Bemenderfer}(2017{\natexlab{a}})]{Bemenderfer2017}
 {Joshua Bemenderfer}.
 \newblock Introduction to routing in vue.js with vue-router.
-\newblock \emph{Alligator.io}, 2017.
+\newblock \emph{Alligator.io}, 2017{\natexlab{a}}.
 \newblock URL \url{https://alligator.io/vuejs/intro-to-routing/}.
 
 \bibitem[Unknown({\natexlab{a}})]{DictionaryTemplating}
@@ -78,6 +78,20 @@ Unknown.
 Unknown.
 \newblock Form validation, {\natexlab{b}}.
 \newblock URL \url{https://vuejs.org/v2/cookbook/form-validation.html}.
+
+\bibitem[{Joshua Bemenderfer}(2017{\natexlab{b}})]{BemenderferVeeValidate2017}
+{Joshua Bemenderfer}.
+\newblock Template-based form validation with vue.js and vee-validate,
+  2017{\natexlab{b}}.
+\newblock URL
+  \url{https://alligator.io/vuejs/template-form-validation-vee-validate/}.
+
+\bibitem[{Joshua Bemenderfer}(2017{\natexlab{c}})]{BemenderferVuelidate2017}
+{Joshua Bemenderfer}.
+\newblock Model-based form validation with vue.js and vuelidate,
+  2017{\natexlab{c}}.
+\newblock URL
+  \url{https://alligator.io/vuejs/model-form-validation-vuelidate/}.
 
 \bibitem[Unknown({\natexlab{c}})]{VueDokumentationComponents2018}
 Unknown.
