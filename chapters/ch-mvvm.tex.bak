@@ -1,7 +1,7 @@
 %BILD
 \subsection{Model-View-ViewModel}
 %TODO
-Durch die Entwicklung des Windows Presentation Foundation Framework (WPF) durch Microsoft entstand 2005 das Architekturmodell \ac{MVVM}, das ein fester Bestandteil von Silverlight\footnote{Silverlight is a cross-browser, cross-platform plug-in for delivering media and rich interactive applications for the Web} ist. Ebenso werden existierende Frameworks um \ac{MVVM} erweitert\cite{Jaeckle2015}.
+Durch die Entwicklung des Windows Presentation Foundation Framework (WPF) durch Microsoft\footnote{https://www.microsoft.com/de-de} entstand 2005 das Architekturmodell \ac{MVVM}, das ein fester Bestandteil von Silverlight\footnote{Silverlight is a cross-browser, cross-platform plug-in for delivering media and rich interactive applications for the Web} ist. Ebenso werden existierende Frameworks um \ac{MVVM} erweitert\cite{Jaeckle2015}.
 
 \begin{figure}[h] 
 \centering

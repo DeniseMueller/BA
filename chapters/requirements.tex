@@ -1,0 +1,74 @@
+\section{Requirements}
+
+\subsection{Top-Level Requirement}
+\begin{itemize}
+\item \textbf{Top Requirement 1000:}\\
+Das System C.A.M. soll die Lage eines Fahrzeuges \"uber eine Deckenkamera auf der Fahrbahn ermitteln und zur Visualisierung bereitstellen.
+\end{itemize}
+
+\subsection{Geforderte Anwendungf\"alle}
+
+\begin{itemize}
+\item \textbf{Anwendungsfall Tracking:}\\
+Das System soll das Fahrzeug auf der Fahrbahn erfassen.
+\item \textbf{Anwendungsfall Darstellung:}\\
+Das System soll die Fahrzeugposition auf der Fahrbahn visuell darstellen.
+\end{itemize}
+
+\textbf{Anforderungen an den Anwendungsfall "Tracking"}
+\begin{itemize}
+\item  \textbf{Requirement 2100:}\\
+Das System muss das Fahrzeug erkennen.
+\item \textbf{Requirement 2200:}\\
+Das System muss die Position des Fahrzeugs erkennen.
+\item \textbf{ Requirement 2300:}\\
+Das System muss die Richtung des Fahrzeugs erkennen.
+\item\textbf{ Requirement 2400:}\\
+Das System muss die Geschwindigkeit des Fahrzeugs erkennen.
+\item \textbf{Requirement 2500:}\\
+Das System muss die ermittelten Daten \"uber eine Schnittstelle ausliefern.
+\end{itemize}
+
+\textbf{Anforderungen an den Anwendungsfall "Darstellung"}
+\begin{itemize}
+\item \textbf{Requirement 3100:}\\
+Das System muss als Webanwendung implementiert werden.
+\item \textbf{Requirement 3200:}\\
+Das System muss die Fahrbahn visualisieren
+\item \textbf{Requirement 3300:}\\
+Das System muss anhand der \"ubermittelten Daten das Fahrzeug auf der Fahrbahn visualisieren
+\end{itemize}
+
+\subsection{Anforderungen an die technischen Funktion}
+\textbf{Anforderungen an Start-up und Shut-down}
+\begin{itemize}
+\item \textbf{Requirement 1100:}\\
+Nach dem Starten des Systems m\"ussen alle Funktionen zur Verf\"ugung stehen.
+\end{itemize}
+
+\textbf{Anforderungen an die Fehlererkennung, -behandlung und -ausgabe}
+\begin{itemize}
+\item \textbf{Requirement 1200:}\\
+Alle Fehler die w\"ahrend des Betriebs des Systems entstehen, sollten protokolliert und
+gespeichert werden.
+\item \textbf{Requirement 1210:}\\
+Geht das System in einen undefinierten, unsicheren Zustand \"uber, sollte es automatisch in einen sicheren Zustand gebracht werden.
+\end{itemize}
+
+\textbf{Anforderungen an die Kommunikation}
+\begin{itemize}
+\item \textbf{Requirement 1300:}\\
+Es sollen die ermittelten Fahrzeuginformationen von dem Tracking zu der Darstellung mittels eines Websockets \"ubertragen werden.
+\item \textbf{Requirement 1400:}\\
+Die externe Deckenkamera soll die Bilder \"uber eine USB-Schnittstelle an das System\"ubertragen.
+\end{itemize}
+
+\textbf{Anforderungen an die Qualit\"aten}
+\begin{itemize}
+\item \textbf{Requirement 1520:}\\
+Das System soll im Bereich Mehrfachdetektion von Fahrzeugen sowie von Hindernissen erweiterbar sein.
+\item \textbf{Requirement 1530:}\\
+Das System soll die Mehrfachdetektion von Fahrzeugen sowie von Hindernissen visuell erweiterbar sein
+\item \textbf{Requirement 1540:}\\
+Das System soll die Fahrzeuge steuern k\"onnen
+\end{itemize}

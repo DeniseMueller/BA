@@ -1,4 +1,4 @@
-\select@language {ngerman}
+\babel@toc {ngerman}{}
 \contentsline {chapter}{\numberline {1}Einf\"uhrung}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Gesamtsystem}{1}{section.1.2}
@@ -12,23 +12,20 @@
 \contentsline {section}{\numberline {2.2}Architekturmuster Model-View-ViewModel}{10}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Motivation}{10}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Model-View-ViewModel}{11}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Verwandte Architekturmuster}{14}{subsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Model-View Controller}{14}{subsubsection.2.2.3.1}
+\contentsline {subsection}{\numberline {2.2.3}Verwandte Architekturmuster}{13}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Model-View Controller}{13}{subsubsection.2.2.3.1}
 \contentsline {subsubsection}{\numberline {2.2.3.2}Model-View Presenter}{15}{subsubsection.2.2.3.2}
 \contentsline {subsection}{\numberline {2.2.4}Fazit}{15}{subsection.2.2.4}
-\contentsline {chapter}{\numberline {3}Requirements}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Funktionale Requirements}{17}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Funktionales Top Level Requirement}{17}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Requirements an die Anwendungsf\"alle}{17}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Nicht funktionale Requirements}{18}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Anforderungen an den Nutzungskontext}{18}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Anforderungen an die Implementierung}{18}{subsection.3.2.2}
-\contentsline {chapter}{\numberline {4}Anforderungsanalyse}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Use-Case-Diagramm}{19}{section.4.1}
-\contentsline {chapter}{\numberline {5}Systemarchitektur}{20}{chapter.5}
-\contentsline {chapter}{\numberline {6}Implementierung}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Analysieren und Auswerten der Tracking Daten}{21}{section.6.1}
-\contentsline {section}{\numberline {6.2}Darstellung Fahrbahn}{21}{section.6.2}
-\contentsline {section}{\numberline {6.3}WebSockets Kommunikation}{21}{section.6.3}
-\contentsline {section}{\numberline {6.4}Bluetooth Verbindung zu Modellautos}{21}{section.6.4}
-\contentsline {chapter}{\numberline {7}Zusammenfassung/Ausblick}{22}{chapter.7}
+\contentsline {section}{\numberline {2.3}Requirements}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Top-Level Requirement}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Geforderte Anwendungf\"alle}{17}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Anforderungen an die technischen Funktion}{18}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}Anforderungsanalyse}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Use-Case-Diagramm}{19}{section.3.1}
+\contentsline {chapter}{\numberline {4}Systemarchitektur}{20}{chapter.4}
+\contentsline {chapter}{\numberline {5}Implementierung}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Analysieren und Auswerten der Tracking Daten}{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Darstellung Fahrbahn}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}WebSockets Kommunikation}{21}{section.5.3}
+\contentsline {section}{\numberline {5.4}Bluetooth Verbindung zu Modellautos}{21}{section.5.4}
+\contentsline {chapter}{\numberline {6}Zusammenfassung/Ausblick}{22}{chapter.6}

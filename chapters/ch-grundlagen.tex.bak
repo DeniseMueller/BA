@@ -1,9 +1,8 @@
 %Hauptteil
 \chapter{Theoretische Grundlagen}
-Dieses Kapitel befasst sich mit Vue.js und dem Entwurfsmuster \ac{MVVM}, das innerhalb der Arbeit genutzt wird und  zum Verst\"andnis der Arbeit dient.
+Dieses Kapitel befasst sich mit dem Framework Vue.js, das clientseitige Frontend Anwendungen unterst\"utzt und dem Entwurfsmuster \ac{MVVM}, das von Vue.js angewandt wird. Vue.js wird f\"ur die Arbeit genutzt und die Grundlagen sollen zum Verst\"andnis der Arbeit dienen.
 \section{VueJS}
-%\subsection{Einf\"uhrung}
-Die zunehmende Digitalisierung und die Nutzung sozialer Netzwerke bringen Sprachen und Technologien wie \ac{HTML}\footnote{Sprache, die es erm\"oglicht, Informationen im Internet zu pr\"asentieren}5 , \ac{CSS}\footnote{Stilsprache, die das Aussehen von \ac{HTML}-Dokumenten definiert} oder JavaScript universell zum Einsatz. Egal welches Ger\"at gerade genutzt wird, ob Laptop, Computer oder Smartphone, jede Anwendung sollte auf allen Ger\"aten lauff\"ahig sein\cite{Teufel2018}.
+Durch zunehmende Digitalisierung und die Nutzung sozialer Netzwerke kommen Sprachen und Technologien wie \ac{HTML}\footnote{Sprache, die es erm\"oglicht, Informationen im Internet zu pr\"asentieren}5 , \ac{CSS}\footnote{Stilsprache, die das Aussehen von \ac{HTML}-Dokumenten definiert} oder JavaScript universell zum Einsatz. Egal welches Ger\"at gerade genutzt wird, jede Art von Anwendung sollte auf den Ger\"aten lauff\"ahig sein\cite{Teufel2018}.
 F\"ur Anwendungen im Web wird ein Client als Browser und ein Webserver ben\"otigt. Um die Daten, die durch  \ac{HTML}angezeigt werden, zu manipulieren, interpretieren und zu aktualisieren, wird die Skriptsprache JavaScript ben\"otigt\cite{UniHagenWeb}. Ebenso Anwenderinteraktionen wie Scrollen oder Klicken wird durch JavaScript interpretiert und verarbeitet.
 \input{chapters/ch-vueFramework}
 \input{chapters/ch-vueFunktionsweise}

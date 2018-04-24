@@ -1,4 +1,4 @@
-\select@language {ngerman}
+\babel@toc {ngerman}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Codebeispiel Initialisierung Vue\relax }}{3}{figure.caption.10}
@@ -8,8 +8,7 @@
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Datenbindung zwischen View und ViewModel\relax }}{12}{figure.caption.29}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Komponente des MVC Architekturmusters\relax }}{14}{figure.caption.33}
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Use Case Diagramm\relax }}{19}{figure.caption.38}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagramm\relax }}{19}{figure.caption.37}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

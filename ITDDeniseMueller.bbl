@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{42}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -269,26 +269,5 @@ Unknown.
 \newblock Mvp: Model-view-presenter. the taligent programming model for c++ and
   java.
 \newblock \emph{Taligent, Inc}, 1996.
-
-\bibitem[R.Heini(2010)]{Heini2010}
-R.Heini.
-\newblock Ziele und anforderungen: Funktionale, nicht funktionale
-  anforderungen, 2010.
-\newblock URL
-  \url{http://www.anforderungsmanagement.ch/in_depth_vertiefung/ziele_und_anforderungen/index.html}.
-
-\bibitem[Sophist(1998-2011)]{Sophist2011}
-Sophist.
-\newblock Anforderungen, 1998-2011.
-\newblock URL
-  \url{http://www.sophist.de/anforderungen/requirements-engineering/faq-requirements-engineering/}.
-
-\bibitem[Goll(2011)]{Goll2011}
-Joachim Goll.
-\newblock \emph{Methoden und Architekturen der Softwaretechnik}.
-\newblock Studium. {Vieweg+Teubner Verlag}, Wiesbaden, 1. aufl. edition, 2011.
-\newblock ISBN 978-3-8348-1578-1.
-\newblock \doi{10.1007/978-3-8348-8164-9}.
-\newblock URL \url{http://dx.doi.org/10.1007/978-3-8348-8164-9}.
 
 \end{thebibliography}
