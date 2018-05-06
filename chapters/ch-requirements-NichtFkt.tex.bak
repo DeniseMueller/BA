@@ -1,30 +1,29 @@
-\subsection{Anforderungen an den Nutzungskontext}
-\begin{itemize}
-\item \textbf{Requirement 1210:}\\
-Das System soll \"uber eine Webanwendung verf\"ugbar sein.
-\end{itemize}
+\subsection*{Anforderungen an den Nutzungskontext}
+%\begin{itemize}
+%\item \textbf{Requirement 1210:}\\
+%Das System soll \"uber eine Webanwendung verf\"ugbar sein.
+%\end{itemize}
 \textbf{Darstellung:}
 \begin{itemize}
-\item \textbf{Requirement 1220:}\\
+\item \textbf{Requirement 1210:}\\
 Durch Intervall\"anderungen der Positionen, sollen die \"Anderungen zeitlich schnell aktualisiert werden.
-\item \textbf{Requirement 1230:}\\
+\item \textbf{Requirement 1220:}\\
 \textsc{Optional:} Die Darstellung des Fahrzeugs in der Webanwendung sollte in einer reibungslose Bewegung dargestellt werden
 \end{itemize}
-\subsection{Anforderungen an die Implementierung}
+\subsection*{Anforderungen an die Implementierung}
 \textbf{Architektur:}
 \begin{itemize}
 \item \textbf{Requirement 1310:}\\
-Die Anwendung zeigt eine \ac{SPA}-Architektur auf.\\ SICHER?
+Die Anwendung zeigt eine \ac{SPA}-Architektur auf. 
 \end{itemize}
 \textbf{Technologien:}
 \begin{itemize}
 \item \textbf{Requirement 1320:}\\
 Das System soll mit der Frontend Bibliothek Vue.js umgesetzt werden.
+%\item \textbf{Requirement 1330:}\\
+%Die Positionsdaten sollen per Webservices, wie Websockets \"ubermittelt werden.
 \item \textbf{Requirement 1330:}\\
-Die Positionsdaten sollen per Webservices, wie Websockets \"ubermittelt werden.
+Durch die gegebene Zeit und der Strecke soll die Geschwindigkeit durch Berechnungen dargestellt werden.
 \item \textbf{Requirement 1340:}\\
-Die Verbindung zu den Fahrzeugen soll durch Web-Bluetooth verbunden werden.
-\item \textbf{Requirement 1350:}\\
-\textsc{Optional:} Durch die gegebene Zeit und der Strecke soll die Geschwindigkeit durch Berechnungen dargestellt.
- werden.
+\textsc{Optional:} Die Verbindung zu den Fahrzeugen soll durch Web-Bluetooth verbunden werden.
 \end{itemize}

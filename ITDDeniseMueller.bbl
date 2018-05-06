@@ -1,9 +1,21 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{50}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Gero Hesse}(2015)]{Hesse2015}
+{Gero Hesse}.
+\newblock Digitalisierung der arbeitgeberkommunikation: Individualisierung und
+  erlebnis sind gefragt, 2015.
+\newblock URL
+  \url{https://www.saatkorn.com/digitalisierung-der-arbeitgeberkommunikation-individualisierung-und-erlebnis-sind-gefragt/}.
+
+\bibitem[{Don Dahlmann}(2018)]{Dahlmann2018}
+{Don Dahlmann}.
+\newblock Die f{\"u}nf level des autonomen fahrens, 2018.
+\newblock URL \url{http://www.dondahlmann.de/?p=24974}.
 
 \bibitem[{Marc Teufel}(2018)]{Teufel2018}
 {Marc Teufel}.
@@ -31,6 +43,10 @@ Benjamin~Wallenborn {Dirk Frischalowski}.
 \newblock Trendsvue, 2018.
 \newblock URL
   \url{https://trends.google.de/trends/explore?date=today%205-y&q=vue.js,react.js,angular.js}.
+
+\bibitem[{Packt Video}(2017)]{PacktVideoVue2017}
+{Packt Video}.
+\newblock Web development with vue.js 2, 2017.
 
 \bibitem[{Ed Zynda}(2017)]{Zynda2017}
 {Ed Zynda}.
@@ -269,5 +285,38 @@ Unknown.
 \newblock Mvp: Model-view-presenter. the taligent programming model for c++ and
   java.
 \newblock \emph{Taligent, Inc}, 1996.
+
+\bibitem[{SOPHIST GmbH}(2013)]{SOPHISTGmbH2013}
+{SOPHIST GmbH}.
+\newblock Sophisten, master - schablonen f{\"u}r alle f{\"a}lle, 2013.
+\newblock URL
+  \url{https://www.sophist.de/fileadmin/SOPHIST/Puplikationen/Broschueren/SOPHIST_Broschuere_MASTeR.pdf}.
+
+\bibitem[R.Heini(2010)]{Heini2010}
+R.Heini.
+\newblock Ziele und anforderungen: Funktionale, nicht funktionale
+  anforderungen, 2010.
+\newblock URL
+  \url{http://www.anforderungsmanagement.ch/in_depth_vertiefung/ziele_und_anforderungen/index.html}.
+
+\bibitem[Sophist(1998-2011)]{Sophist2011}
+Sophist.
+\newblock Anforderungen, 1998-2011.
+\newblock URL
+  \url{http://www.sophist.de/anforderungen/requirements-engineering/faq-requirements-engineering/}.
+
+\bibitem[Goll(2011)]{Goll2011}
+Joachim Goll.
+\newblock \emph{Methoden und Architekturen der Softwaretechnik}.
+\newblock Studium. {Vieweg+Teubner Verlag}, Wiesbaden, 1. aufl. edition, 2011.
+\newblock ISBN 978-3-8348-1578-1.
+\newblock \doi{10.1007/978-3-8348-8164-9}.
+\newblock URL \url{http://dx.doi.org/10.1007/978-3-8348-8164-9}.
+
+\bibitem[{Dennis Rudolph}(2017)]{Rudolph2017}
+{Dennis Rudolph}.
+\newblock x-y-koordinatensystem mit punkte, 2017.
+\newblock URL
+  \url{https://www.gut-erklaert.de/mathematik/x-y-koordinatensystem-mit-punkte.html}.
 
 \end{thebibliography}

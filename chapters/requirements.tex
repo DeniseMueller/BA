@@ -1,18 +1,27 @@
-\section{Requirements}
+\chapter{Requirements Gesamtsystem}
+\label{sec:req}
+Im Folgenden werden die funktionalen und nicht-funktionalen Anforderungen an das Gesamtsystem beschrieben. Diese werden aus der Sicht des Auftragsgebers geschrieben und dienen dazu, die Anwendung genau zu definieren. Dadurch sollen Unstimmigkeiten vermieden werden, um ein Ergebnis zu erzielen, welches f\"ur alle beteiligten Parteien zufriedenstellend ist.\par\medskip 
+Zur Erstellung der Requirements wurde eine Schablone zur Unterst\"utzung verwendet.
+Diese wurde von den SOPHISTen erstellt, welche sich mit dem Requirements Engineering auseinandersetzen. Die SOPHISTen haben ein Innovationsprojekt unter dem Namen \enquote{\ac{MASTeR}} durchgef\"uhrt, welches sich als Ziel die Verbesserung der nat\"urlichsprachlichen Dokumentation von Anforderungen gesetzt hat. Daraus gingen Schablonen f\"ur funktionale und
+nicht-funktionale Anforderungen hervor, welche zur Erstellung der folgenden Anforderungen verwendet wurden\cite{SOPHISTGmbH2013}. \par\medskip 
+Die SOPHISTen definieren ebenfalls eine rechtliche Verbindlichkeit f\"ur Anforderungen.
+Hierf\"ur wurden von ihnen drei Schl\"usselw\"orter festgelegt. Die wichtigsten Anforderungen werden mit dem Schl\"usselwort \textit{\enquote{muss}} definiert. Diese sind verpflichtend umzusetzen.
+Sind diese Anforderungen nicht umgesetzt, ist es m\"oglich, die Abnahme des Produkts zu verweigern. Das zweite Schl\"usselwort \textit{\enquote{sollte} }wird verwendet, um W\"unsche des Auftraggebers darzustellen. Diese m\"ussen nicht erf\"ullt werden, erh\"ohen jedoch die Zufriedenheit des Auftraggebers. Das dritte Schl\"usselwort \textit{\enquote{wird}} beschreibt Vorbereitungen f\"ur zuk\"unftige Funktionen der Anwendung. Sie dienen zur Dokumentation der Absichten des Auftraggebers.
 
-\subsection{Top-Level Requirement}
+\newpage
+\section{Top-Level Requirement}
 \begin{itemize}
 \item \textbf{Top Requirement 1000:}\\
-Das System C.A.M. soll die Lage eines Fahrzeuges \"uber eine Deckenkamera auf der Fahrbahn ermitteln und zur Visualisierung bereitstellen.
+Das System C.A.M. muss die Lage eines Fahrzeuges \"uber eine Deckenkamera auf der Fahrbahn ermitteln und zur Visualisierung bereitstellen.
 \end{itemize}
 
-\subsection{Geforderte Anwendungf\"alle}
+\section{Geforderte Anwendungf\"alle}
 
 \begin{itemize}
 \item \textbf{Anwendungsfall Tracking:}\\
-Das System soll das Fahrzeug auf der Fahrbahn erfassen.
+Das System muss das Fahrzeug auf der Fahrbahn erfassen.
 \item \textbf{Anwendungsfall Darstellung:}\\
-Das System soll die Fahrzeugposition auf der Fahrbahn visuell darstellen.
+Das System muss die Fahrzeugposition auf der Fahrbahn visuell darstellen.
 \end{itemize}
 
 \textbf{Anforderungen an den Anwendungsfall "Tracking"}
@@ -24,7 +33,7 @@ Das System muss die Position des Fahrzeugs erkennen.
 \item \textbf{ Requirement 2300:}\\
 Das System muss die Richtung des Fahrzeugs erkennen.
 \item\textbf{ Requirement 2400:}\\
-Das System muss die Geschwindigkeit des Fahrzeugs erkennen.
+Das System soll die Geschwindigkeit des Fahrzeugs erkennen.
 \item \textbf{Requirement 2500:}\\
 Das System muss die ermittelten Daten \"uber eine Schnittstelle ausliefern.
 \end{itemize}
@@ -34,12 +43,12 @@ Das System muss die ermittelten Daten \"uber eine Schnittstelle ausliefern.
 \item \textbf{Requirement 3100:}\\
 Das System muss als Webanwendung implementiert werden.
 \item \textbf{Requirement 3200:}\\
-Das System muss die Fahrbahn visualisieren
+Das System muss die Fahrbahn visualisieren.
 \item \textbf{Requirement 3300:}\\
-Das System muss anhand der \"ubermittelten Daten das Fahrzeug auf der Fahrbahn visualisieren
+Das System muss anhand der \"ubermittelten Daten das Fahrzeug auf der Fahrbahn visualisieren.
 \end{itemize}
 
-\subsection{Anforderungen an die technischen Funktion}
+\subsection{Anforderungen an die technischen Funktionen}
 \textbf{Anforderungen an Start-up und Shut-down}
 \begin{itemize}
 \item \textbf{Requirement 1100:}\\
@@ -68,7 +77,7 @@ Die externe Deckenkamera soll die Bilder \"uber eine USB-Schnittstelle an das Sy
 \item \textbf{Requirement 1520:}\\
 Das System soll im Bereich Mehrfachdetektion von Fahrzeugen sowie von Hindernissen erweiterbar sein.
 \item \textbf{Requirement 1530:}\\
-Das System soll die Mehrfachdetektion von Fahrzeugen sowie von Hindernissen visuell erweiterbar sein
+Das System soll die Mehrfachdetektion von Fahrzeugen sowie von Hindernissen visuell erweiterbar sein.
 \item \textbf{Requirement 1540:}\\
-Das System soll die Fahrzeuge steuern k\"onnen
+Das System soll die Fahrzeuge steuern k\"onnen.
 \end{itemize}

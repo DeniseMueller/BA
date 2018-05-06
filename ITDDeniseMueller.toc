@@ -1,31 +1,38 @@
 \babel@toc {ngerman}{}
 \contentsline {chapter}{\numberline {1}Einf\"uhrung}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Gesamtsystem}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Ziel der Arbeit}{1}{section.1.3}
-\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}VueJS}{2}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Framework}{2}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Funktionsweise/Anwendung}{4}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Reactive Programming}{6}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Andere Frameworks}{8}{subsection.2.1.4}
-\contentsline {section}{\numberline {2.2}Architekturmuster Model-View-ViewModel}{10}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Motivation}{10}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Model-View-ViewModel}{11}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Verwandte Architekturmuster}{13}{subsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Model-View Controller}{13}{subsubsection.2.2.3.1}
-\contentsline {subsubsection}{\numberline {2.2.3.2}Model-View Presenter}{15}{subsubsection.2.2.3.2}
-\contentsline {subsection}{\numberline {2.2.4}Fazit}{15}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Requirements}{17}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Top-Level Requirement}{17}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Geforderte Anwendungf\"alle}{17}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Anforderungen an die technischen Funktion}{18}{subsection.2.3.3}
-\contentsline {chapter}{\numberline {3}Anforderungsanalyse}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}Use-Case-Diagramm}{19}{section.3.1}
-\contentsline {chapter}{\numberline {4}Systemarchitektur}{20}{chapter.4}
-\contentsline {chapter}{\numberline {5}Implementierung}{21}{chapter.5}
-\contentsline {section}{\numberline {5.1}Analysieren und Auswerten der Tracking Daten}{21}{section.5.1}
-\contentsline {section}{\numberline {5.2}Darstellung Fahrbahn}{21}{section.5.2}
-\contentsline {section}{\numberline {5.3}WebSockets Kommunikation}{21}{section.5.3}
-\contentsline {section}{\numberline {5.4}Bluetooth Verbindung zu Modellautos}{21}{section.5.4}
-\contentsline {chapter}{\numberline {6}Zusammenfassung/Ausblick}{22}{chapter.6}
+\contentsline {section}{\numberline {1.2}Ziel der Arbeit}{1}{section.1.2}
+\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}VueJS}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Framework}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Funktionsweise/Anwendung}{5}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Reactive Programming}{8}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Andere Frameworks}{10}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Architekturmuster Model-View-ViewModel}{12}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Motivation}{12}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Model-View-ViewModel}{14}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Verwandte Architekturmuster}{16}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Model-View Controller}{16}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Model-View Presenter}{18}{subsubsection.2.2.3.2}
+\contentsline {subsection}{\numberline {2.2.4}Fazit}{18}{subsection.2.2.4}
+\contentsline {chapter}{\numberline {3}Requirements Gesamtsystem}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}Top-Level Requirement}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Geforderte Anwendungf\"alle}{21}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Anforderungen an die technischen Funktionen}{22}{subsection.3.2.1}
+\contentsline {chapter}{\numberline {4}Teilsystem Visualisierung}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Anforderungen an das Teilsystem}{23}{section.4.1}
+\contentsline {section}{\numberline {4.2}Anwendungsfall Teilsystem}{25}{section.4.2}
+\contentsline {chapter}{\numberline {5}Anforderungsanalyse}{28}{chapter.5}
+\contentsline {section}{\numberline {5.1}Anwendungsfalldiagramme}{28}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Kurzbeschreibung der Anwendungsf\"alle}{28}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Langbeschreibung der Anwendungsf\"alle}{28}{subsection.5.1.2}
+\contentsline {chapter}{\numberline {6}Systementwurf}{29}{chapter.6}
+\contentsline {section}{\numberline {6.1}Mockups}{29}{section.6.1}
+\contentsline {section}{\numberline {6.2}Architektur}{29}{section.6.2}
+\contentsline {section}{\numberline {6.3}Verwendete Technologien}{29}{section.6.3}
+\contentsline {chapter}{\numberline {7}Implementierung}{30}{chapter.7}
+\contentsline {section}{\numberline {7.1}Analysieren und Auswerten der Tracking Daten}{30}{section.7.1}
+\contentsline {section}{\numberline {7.2}Darstellung Fahrbahn}{30}{section.7.2}
+\contentsline {section}{\numberline {7.3}WebSockets Kommunikation}{30}{section.7.3}
+\contentsline {section}{\numberline {7.4}Bluetooth Verbindung zu Modellfahrzeugen}{30}{section.7.4}
+\contentsline {chapter}{\numberline {8}Zusammenfassung/Ausblick}{31}{chapter.8}
