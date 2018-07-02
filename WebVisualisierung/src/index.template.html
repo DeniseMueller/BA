@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<title><%= htmlWebpackPlugin.options.title %></title>
+	</head>
+	<body class="app header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden">
+		<div class="page-loader">
+            <div></div>
+        </div>     
+		<header class="app-header navbar">
+	    	<button class="navbar-toggler mobile-sidebar-toggler d-lg-none mr-auto" type="button">
+	      		<span class="navbar-toggler-icon"></span>
+	    	</button>
+	    	<a class="navbar-brand" href="#"><h3><span class="navbar-brand-title"><%= htmlWebpackPlugin.options.title %></h3></span></a>
+	    	<button class="navbar-toggler sidebar-toggler d-md-down-none" type="button">
+	      		<span class="navbar-toggler-icon"></span>
+	    	</button>
+	  	</header>
+		<div id="app"></div>
+		<footer class="app-footer">
+			<span>&copy; Denise Müller</span>
+		</footer>
+	</body>
+</html>

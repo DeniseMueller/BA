@@ -1,0 +1,23 @@
+.navbar-brand 
+{
+	padding			: 0.8em 1.0em !important;
+	width			: 200px !important;
+	background-size	: 150px auto !important;
+}
+
+.brand-minimized .navbar-brand 
+{
+	width			: 65px !important;
+	background-size	: 25px auto !important;
+}
+
+.navbar-brand-title 
+{
+	margin-left		: 200px;
+	color			: $gray-100;
+}
+
+.brand-minimized .navbar-brand-title 
+{
+	display			: none;
+}

@@ -1,0 +1,11 @@
+# Common exludes
+**/.gradle/
+**/.settings/
+**/bin/
+**/build/
+**/log/
+**/node_modules/
+**/.classpath
+**/.project
+**/package-lock.json
+**/null*

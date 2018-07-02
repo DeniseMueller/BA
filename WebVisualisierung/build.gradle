@@ -1,0 +1,37 @@
+plugins {
+  id "com.moowork.node" version "1.2.0"
+}
+
+apply plugin: 'eclipse'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+}
+
+eclipse {
+	eclipse.project {
+        natures 'org.eclipse.buildship.core.gradleprojectnature'
+    }
+}
+
+node {
+    version = 'latest'
+    download = true
+}
+
+/**
+ * Starts the development server configured on webpack.dev.js
+ */
+task devServer( type: NpmTask, dependsOn: 'npmInstall', group: 'development' ) {
+    args = ['run', 'dev']
+}
+
+/**
+ * Builds the project with npm. Output on www.
+ */
+task npmBuild( type: NpmTask, dependsOn: 'npmInstall', group: 'development' ) {
+    args = ['run', 'build']
+}
